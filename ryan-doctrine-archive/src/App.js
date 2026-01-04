@@ -1,0 +1,522 @@
+import React, { useState } from 'react';
+import {
+  AlertTriangle,
+  Shield,
+  Eye,
+  FileText,
+  Zap,
+  Lock,
+  ChevronRight,
+  ChevronDown,
+  Menu,
+  X,
+  BookOpen,
+  Target,
+  Activity,
+  GraduationCap
+} from 'lucide-react';
+
+const App = () => {
+  const [activeModule, setActiveModule] = useState('overview');
+  const [expandedSection, setExpandedSection] = useState(null);
+  const [expandedAcademic, setExpandedAcademic] = useState({});
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+
+  const toggleAcademic = (tacticId, sectionId) => {
+    setExpandedAcademic(prev => ({
+      ...prev,
+      [`${tacticId}-${sectionId}`]: !prev[`${tacticId}-${sectionId}`]
+    }));
+  };
+
+  const modules = [
+    { id: 'overview', name: 'Overview', icon: Eye },
+    { id: 'tactics', name: 'Tactics Archive', icon: Target },
+    { id: 'defense', name: 'Counter-Protocols', icon: Shield },
+    { id: 'case-studies', name: 'Field Reports', icon: FileText }
+  ];
+
+  const academicContent = {
+    gaslighting: {
+      title: 'Neuroscience of Reality Distortion',
+      sections: [
+        {
+          id: 'cognitive-mechanisms',
+          title: 'Cognitive Mechanisms',
+          content: `Gaslighting exploits the brain's memory consolidation processes. The hippocampus, responsible for encoding contextual memories, becomes compromised when faced with repeated contradictory information from a trusted source. This creates cognitive dissonance where the target must reconcile internal experience with external denial.
+
+The brain naturally resolves dissonance by questioning the less certain sourcewhich, after sustained manipulation, becomes the target's own memory rather than the orchestrator's confident assertions.`
+        },
+        {
+          id: 'self-trust-erosion',
+          title: 'Self-Trust Erosion Cascade',
+          content: `Self-trust erosion follows three observable stages:
+
+1. Primary Doubt: "Did I remember that correctly?"
+2. Secondary Questioning: "Am I being too sensitive?"  
+3. Identity Crisis: "Can I trust my own judgment about anything?"
+
+The final stage represents complete internalization of the orchestrator's reality framework. Each stage builds on accumulated doubt from repeated manipulation cycles.`
+        },
+        {
+          id: 'pathologizing',
+          title: 'Pathologizing as Weapon',
+          content: `Weaponizing psychiatric language reframes normal responses as pathological. Appropriate reactions to provocation become "emotional dysregulation." Pattern recognition becomes "paranoia." 
+
+This co-opts legitimate clinical frameworks for manipulation. The target may research these conditions, embedding false self-diagnosis. Mental health professionals unfamiliar with systematic manipulation may inadvertently reinforce labels when presented only with decontextualized "symptoms."`
+        }
+      ]
+    },
+    darvo: {
+      title: 'Architecture of Blame Reversal',
+      sections: [
+        {
+          id: 'three-phase',
+          title: 'The Three-Phase Sequence',
+          content: `DARVO operates as a reliable tactical sequence:
+
+**DENY:** Confident denial buys time to assess evidence strength and establishes competing reality. Forces target into prosecutorial role of proving claims.
+
+**ATTACK:** Shifts emotional burden by questioning target's motives, mental state, or character. Target must now defend their decision to raise the issue.
+
+**REVERSE:** Repositions orchestrator as injured party. "Your confrontation is actually abusive" transforms the entire dynamic. Target defends their right to have boundaries.`
+        },
+        {
+          id: 'cognitive-load',
+          title: 'Cognitive Load Exploitation',
+          content: `DARVO overwhelms cognitive processing capacity. The target must simultaneously:
+- Maintain original argument
+- Defend against character attacks  
+- Reject victim/offender reversal
+- Manage emotional dysregulation
+
+This cognitive overload often results in abandoning the original concern to escape interaction complexity. Silence through exhaustion, not resolution through accountability.`
+        }
+      ]
+    },
+    'forced-reactive': {
+      title: 'Engineered Outrage Mechanics',
+      sections: [
+        {
+          id: 'provocation-cycle',
+          title: 'Provocation-Documentation Cycle',
+          content: `The cycle operates in four phases:
+
+1. **Provocation:** Calibrated stimuli targeting known triggers with plausible deniability
+2. **Escalation Management:** Control intensity to make response visible but instigation invisible
+3. **Documentation:** Capture reaction while omitting provocation  
+4. **Weaponization:** Present decontextualized reaction as evidence of instability
+
+Each cycle builds cumulative "pattern" of problematic behavior.`
+        },
+        {
+          id: 'amygdala-hijack',
+          title: 'Amygdala Hijack as Tactical Outcome',
+          content: `The amygdala hijack is the desired feature, not a bug. When triggered:
+
+- Elevated cortisol and heart rate
+- Reduced language center access
+- Impulse control reduction  
+- Memory encoding disruption
+
+Repeated hijacks create kindling effecteach subsequent provocation requires less stimulus. This progressive sensitization makes target increasingly "reactive," validating orchestrator's narrative.`
+        }
+      ]
+    }
+  };
+
+  const tactics = [
+    {
+      id: 'gaslighting',
+      name: 'Gaslighting',
+      category: 'Psychological Weaponization',
+      description: 'Systematic manipulation making targets question their own memory, perception, and sanity.',
+      objective: 'Erode self-trust and decision-making capabilities, creating dependency on orchestrator\'s reality.',
+      indicators: [
+        'Consistent denial of documented events with confident certainty',
+        'Trivializing feelings as "too sensitive" or "dramatic"',
+        'Memory discrepancy amplification: introducing false details',
+        'Pathologizing normal behaviors as mental illness',
+        'Claiming conversations "never happened"',
+        'Reframing harmful actions as your misinterpretation'
+      ],
+      counter: [
+        'Document with precise timestamps (text, audio, screenshots)',
+        'Trust initial perception before doubt sets in',
+        'Build external verification with trusted witnesses',
+        'Create attribution-proof logs',
+        'Practice psychological pivot: "This is orchestrated"',
+        'Never accept diagnosis from your abuser'
+      ]
+    },
+    {
+      id: 'darvo',
+      name: 'DARVO Framework',
+      category: 'Accountability Evasion',
+      description: 'Deny, Attack, Reverse Victim and Offender - systematic blame reversal.',
+      objective: 'Evade accountability by repositioning confronter as aggressor.',
+      indicators: [
+        'Immediate confident denial despite evidence',
+        'Rapid pivot to attacking character or mental state',
+        'Positioning themselves as real victim',
+        'Making you defend bringing up legitimate concerns',
+        'Claiming your boundaries are controlling',
+        'Accusing you of their exact behavior'
+      ],
+      counter: [
+        'Recognize three-phase pattern as it unfolds',
+        'Refuse to defend raising legitimate concerns',
+        'Document reversal sequence in real-time',
+        'Maintain framedon\'t accept role reversal',
+        'State facts without emotional investment',
+        'Disengage if reversal persists'
+      ]
+    },
+    {
+      id: 'forced-reactive',
+      name: 'Forced Reactive Posturing',
+      category: 'Engineered Scenarios',
+      description: 'Calculated provocation forcing defensive reactions weaponized as "proof" of instability.',
+      objective: 'Generate evidence by provoking justified reactions, then erasing provocation.',
+      indicators: [
+        'Subtle provocations with plausible deniability',
+        'Recording reactions while concealing instigation',
+        'Timing provocations when stressed or vulnerable',
+        'Witnesses appearing only for reaction, not setup',
+        'Provocations echoing known trauma triggers',
+        'Baiting with comments that feel like traps'
+      ],
+      counter: [
+        'Implement tactical pause: Stop, breathe, assess',
+        'Recognize bait by noticing word/intent incongruity',
+        'Deploy strategic silence',
+        'Document full context including provocation',
+        'Practice emotional detachment',
+        'Create own recordings capturing full context'
+      ]
+    }
+  ];
+
+  const defenseProtocols = [
+    {
+      id: 'breadcrumb-web',
+      name: 'The Breadcrumb Web',
+      type: 'Intelligence Gathering',
+      description: 'Systematic counter-surveillance transforming observations into objective evidence.',
+      implementation: [
+        'Maintain secure, timestamped logs of all suspicious interactions',
+        'Use burner devices for sensitive documentation',
+        'Capture multi-modal data: text, audio, screenshots, location',
+        'Build network of interconnected data points',
+        'Cross-reference patterns to expose orchestration'
+      ],
+      objective: 'Transform subjective experience into actionable intelligence'
+    },
+    {
+      id: 'dead-mans-switch',
+      name: 'Dead Man\'s Switch',
+      type: 'Strategic Deterrence',
+      description: 'Legal failsafe ensuring accountability if incapacitated or silenced.',
+      implementation: [
+        'Pre-execute legal agreement with third-party attorney',
+        'Establish automated trigger conditions',
+        'Secure encrypted evidence storage',
+        'Set up automatic dispatch system',
+        'Make orchestrators aware of switch existence'
+      ],
+      objective: 'Eliminate incentive for physical escalation through mutually assured exposure'
+    },
+    {
+      id: 'strategic-silence',
+      name: 'Doctrine of Strategic Silence',
+      type: 'Active Defense',
+      description: 'Refusing engagement to deny orchestrators reactive fuel.',
+      implementation: [
+        'Identify baiting attempts in real-time',
+        'Complete, unambiguous disengagement',
+        'No explanation, defense, or engagement',
+        'Force escalation to provable offense',
+        'Break their predictive model'
+      ],
+      objective: 'Starve attrition loop by denying emotional reaction'
+    }
+  ];
+
+  const TacticCard = ({ tactic, expanded, onToggle }) => {
+    const hasAcademic = academicContent[tactic.id];
+
+    return (
+      <div className="bg-zinc-900 border border-zinc-800 rounded-lg overflow-hidden hover:border-amber-600/30 transition-all">
+        <button
+          onClick={onToggle}
+          className="w-full p-6 text-left flex items-center justify-between hover:bg-zinc-800/50 transition-colors"
+        >
+          <div className="flex-1">
+            <div className="flex items-center gap-3 mb-2">
+              <AlertTriangle className="text-amber-600" size={20} />
+              <h3 className="text-xl font-bold text-gray-100">{tactic.name}</h3>
+              {hasAcademic && (
+                <span className="px-2 py-1 bg-blue-600/10 text-blue-600 text-xs font-mono rounded flex items-center gap-1">
+                  <GraduationCap size={12} />
+                  Academic Analysis
+                </span>
+              )}
+            </div>
+            <p className="text-sm text-amber-600 font-mono mb-2">{tactic.category}</p>
+            <p className="text-gray-400 text-sm">{tactic.description}</p>
+          </div>
+          {expanded ? <ChevronDown className="text-gray-500 ml-4 flex-shrink-0" /> : <ChevronRight className="text-gray-500 ml-4 flex-shrink-0" />}
+        </button>
+
+        {expanded && (
+          <div className="border-t border-zinc-800 p-6 space-y-6 bg-black/20">
+            <div className="bg-red-900/10 border border-red-600/20 rounded-lg p-4">
+              <h4 className="text-xs font-mono text-red-600 uppercase mb-2">Orchestrator's Objective</h4>
+              <p className="text-gray-300 text-sm">{tactic.objective}</p>
+            </div>
+
+            <div>
+              <h4 className="text-sm font-mono text-amber-600 uppercase mb-3 flex items-center gap-2">
+                <Eye size={14} /> Recognition Indicators
+              </h4>
+              <ul className="space-y-2">
+                {tactic.indicators.map((indicator, idx) => (
+                  <li key={idx} className="text-gray-300 text-sm flex items-start gap-2 pl-2 border-l border-amber-600/30">
+                    <span className="text-amber-600 mt-1 font-bold">’</span>
+                    <span>{indicator}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+
+            <div>
+              <h4 className="text-sm font-mono text-emerald-500 uppercase mb-3 flex items-center gap-2">
+                <Shield size={14} /> Counter-Protocol
+              </h4>
+              <ul className="space-y-2">
+                {tactic.counter.map((step, idx) => (
+                  <li key={idx} className="text-gray-300 text-sm flex items-start gap-2 pl-2 border-l border-emerald-600/30">
+                    <span className="text-emerald-500 font-mono font-bold">{String(idx + 1).padStart(2, '0')}.</span>
+                    <span>{step}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+
+            {hasAcademic && (
+              <div className="border-t border-blue-600/20 pt-6 mt-6">
+                <div className="bg-blue-900/10 border border-blue-600/30 rounded-lg p-4 mb-4">
+                  <div className="flex items-center gap-2 mb-2">
+                    <GraduationCap className="text-blue-600" size={20} />
+                    <h4 className="text-lg font-bold text-blue-600">{academicContent[tactic.id].title}</h4>
+                  </div>
+                  <p className="text-gray-400 text-sm">Deep-dive academic analysis with theoretical frameworks and research foundations</p>
+                </div>
+
+                <div className="space-y-3">
+                  {academicContent[tactic.id].sections.map((section) => {
+                    const isExpanded = expandedAcademic[`${tactic.id}-${section.id}`];
+                    return (
+                      <div key={section.id} className="bg-zinc-800/50 border border-zinc-700 rounded-lg overflow-hidden">
+                        <button
+                          onClick={() => toggleAcademic(tactic.id, section.id)}
+                          className="w-full p-4 text-left flex items-center justify-between hover:bg-zinc-700/50 transition-colors"
+                        >
+                          <div className="flex items-center gap-2">
+                            <BookOpen size={16} className="text-blue-500" />
+                            <span className="text-gray-200 font-medium">{section.title}</span>
+                          </div>
+                          {isExpanded ? <ChevronDown size={16} className="text-gray-500" /> : <ChevronRight size={16} className="text-gray-500" />}
+                        </button>
+
+                        {isExpanded && (
+                          <div className="px-4 pb-4 border-t border-zinc-700">
+                            <div className="pt-4 text-gray-300 text-sm leading-relaxed whitespace-pre-line">
+                              {section.content}
+                            </div>
+                          </div>
+                        )}
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+            )}
+          </div>
+        )}
+      </div>
+    );
+  };
+
+  const DefenseProtocolCard = ({ protocol }) => (
+    <div className="bg-zinc-900 border border-zinc-800 rounded-lg p-6 hover:border-emerald-600/30 transition-all">
+      <div className="flex items-start justify-between mb-4">
+        <div className="flex items-center gap-3">
+          <div className="p-2 bg-emerald-600/10 rounded">
+            <Shield className="text-emerald-600" size={24} />
+          </div>
+          <div>
+            <h3 className="text-xl font-bold text-gray-100">{protocol.name}</h3>
+            <p className="text-sm text-emerald-600 font-mono">{protocol.type}</p>
+          </div>
+        </div>
+        <Lock className="text-gray-600" size={20} />
+      </div>
+
+      <p className="text-gray-400 text-sm mb-6">{protocol.description}</p>
+
+      <div className="space-y-4">
+        <div>
+          <h4 className="text-xs font-mono text-gray-500 uppercase mb-2">Implementation Steps</h4>
+          <ul className="space-y-2">
+            {protocol.implementation.map((step, idx) => (
+              <li key={idx} className="text-gray-300 text-sm flex items-start gap-2">
+                <span className="text-emerald-600 font-mono text-xs mt-0.5">{String(idx + 1).padStart(2, '0')}.</span>
+                <span>{step}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        <div className="pt-4 border-t border-zinc-800">
+          <p className="text-xs text-gray-500 font-mono uppercase mb-1">Objective</p>
+          <p className="text-gray-300 text-sm italic">{protocol.objective}</p>
+        </div>
+      </div>
+    </div>
+  );
+
+  const OverviewContent = () => (
+    <div className="space-y-12">
+      <div>
+        <h2 className="text-3xl font-bold text-gray-100 mb-6">The Unseen War: A Defense Manual</h2>
+        <p className="text-gray-400 leading-relaxed max-w-3xl mb-6">
+          This curriculum documents systematic psychological warfare operationsnon-kinetic campaigns designed to erode reality, reputation, and support networks through covert manipulation and plausible deniability.
+        </p>
+        <p className="text-gray-400 leading-relaxed max-w-3xl">
+          The objective: transform from target to analyst. From victim to counterintelligence operative. 
+          This is not paranoia. This is pattern recognition.
+        </p>
+      </div>
+
+      <div className="grid md:grid-cols-3 gap-6">
+        <div className="bg-zinc-900 border border-amber-600/30 rounded-lg p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="p-2 bg-amber-600/10 rounded">
+              <AlertTriangle className="text-amber-600" size={24} />
+            </div>
+            <h3 className="text-lg font-bold text-gray-100">Recognize</h3>
+          </div>
+          <p className="text-gray-400 text-sm">
+            Learn to identify the operational signatures of coordinated psychological campaigns before they escalate.
+          </p>
+        </div>
+
+        <div className="bg-zinc-900 border border-emerald-600/30 rounded-lg p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="p-2 bg-emerald-600/10 rounded">
+              <Shield className="text-emerald-600" size={24} />
+            </div>
+            <h3 className="text-lg font-bold text-gray-100">Defend</h3>
+          </div>
+          <p className="text-gray-400 text-sm">
+            Deploy strategic counter-protocols to deny orchestrators the reactive fuel they need to sustain attacks.
+          </p>
+        </div>
+
+        <div className="bg-zinc-900 border border-blue-600/30 rounded-lg p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="p-2 bg-blue-600/10 rounded">
+              <Activity className="text-blue-600" size={24} />
+            </div>
+            <h3 className="text-lg font-bold text-gray-100">Document</h3>
+          </div>
+          <p className="text-gray-400 text-sm">
+            Build irrefutable evidence networks that transform subjective experience into objective intelligence.
+          </p>
+        </div>
+      </div>
+
+      <div className="bg-black/40 border border-amber-600/20 rounded-lg p-8">
+        <div className="flex items-start gap-4">
+          <Zap className="text-amber-600 flex-shrink-0 mt-1" size={24} />
+          <div>
+            <h3 className="text-xl font-bold text-amber-600">Critical Warning</h3>
+            <p className="text-gray-400 leading-relaxed">
+              This material is not for casual reading. These are operational frameworks extracted from real campaigns. 
+              Understanding these tactics does not make you paranoidit makes you informed. Use this knowledge ethically and responsibly.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+
+  return (
+    <div className="min-h-screen bg-black text-gray-100">
+      <div className="max-w-7xl mx-auto px-4 py-8">
+        <nav className="mb-8">
+          <div className="flex items-center justify-between mb-6">
+            <h1 className="text-2xl font-bold text-amber-600">RyanrealAF Doctrine Archive</h1>
+            <button
+              onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+              className="md:hidden text-gray-400 hover:text-white"
+            >
+              <Menu size={24} />
+            </button>
+          </div>
+          <div className={`md:flex md:space-x-6 ${mobileMenuOpen ? 'block' : 'hidden'}`}>
+            {modules.map((module) => (
+              <button
+                key={module.id}
+                onClick={() => {
+                  setActiveModule(module.id);
+                  setMobileMenuOpen(false);
+                }}
+                className={`flex items-center gap-2 px-4 py-2 rounded-lg transition-colors ${
+                  activeModule === module.id
+                    ? 'bg-amber-600/20 text-amber-600 border border-amber-600/30'
+                    : 'text-gray-400 hover:text-white hover:bg-zinc-800'
+                }`}
+              >
+                <module.icon size={18} />
+                <span className="hidden sm:inline">{module.name}</span>
+              </button>
+            ))}
+          </div>
+        </nav>
+
+        <main>
+          {activeModule === 'overview' && <OverviewContent />}
+          {activeModule === 'tactics' && (
+            <div className="space-y-6">
+              {tactics.map((tactic) => (
+                <TacticCard
+                  key={tactic.id}
+                  tactic={tactic}
+                  expanded={expandedSection === tactic.id}
+                  onToggle={() => setExpandedSection(expandedSection === tactic.id ? null : tactic.id)}
+                />
+              ))}
+            </div>
+          )}
+          {activeModule === 'defense' && (
+            <div className="grid md:grid-cols-2 gap-6">
+              {defenseProtocols.map((protocol) => (
+                <DefenseProtocolCard key={protocol.id} protocol={protocol} />
+              ))}
+            </div>
+          )}
+          {activeModule === 'case-studies' && (
+            <div className="bg-zinc-900 border border-zinc-800 rounded-lg p-8 text-center">
+              <h2 className="text-2xl font-bold mb-4">Field Reports</h2>
+              <p className="text-gray-400">Case studies and field reports coming soon.</p>
+            </div>
+          )}
+        </main>
+      </div>
+    </div>
+  );
+};
+
+export default App;
