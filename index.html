@@ -3,611 +3,110 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Unseen War: Defense Manual</title>
-    <link rel="stylesheet" href="styles.css">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
-    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
-    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
-    <script src="https://unpkg.com/lucide-react@0.263.1/umd/lucide-react.js"></script>
+    <title>RyanrealAF Archive</title>
+    <style>
+        :root {
+            --bg-color: #121212;
+            --text-color: #e0e0e0;
+            --link-color: #bb86fc;
+            --hover-color: #03dac6;
+            --card-bg: #1e1e1e;
+            --border-color: #333;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        header {
+            margin-bottom: 40px;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 20px;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        .subtitle {
+            color: #aaa;
+            font-size: 1.1rem;
+            margin-top: 10px;
+        }
+        .document-list {
+            list-style: none;
+            padding: 0;
+        }
+        .document-item {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            margin-bottom: 16px;
+            padding: 16px;
+            transition: transform 0.2s ease;
+        }
+        .document-item:hover {
+            transform: translateY(-2px);
+            border-color: var(--link-color);
+        }
+        .document-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+        .document-title a {
+            color: var(--link-color);
+            text-decoration: none;
+            display: block;
+        }
+        .document-title a:hover {
+            color: var(--hover-color);
+            text-decoration: underline;
+        }
+        .document-meta {
+            font-size: 0.85rem;
+            color: #888;
+            font-family: monospace;
+        }
+        footer {
+            margin-top: 60px;
+            text-align: center;
+            color: #666;
+            font-size: 0.9rem;
+        }
+    </style>
 </head>
 <body>
-    <div id="root"></div>
+    <div class="container">
+        <header>
+            <h1>RyanrealAF Archive</h1>
+            <div class="subtitle">Forensic Analysis, Psychological Warfare, and Lived-In Wisdom</div>
+        </header>
 
-    <script type="text/babel">
-import React, { useState } from 'react';
-import { 
-  AlertTriangle, 
-  Shield, 
-  Eye, 
-  FileText, 
-  Zap, 
-  Lock,
-  ChevronRight,
-  ChevronDown,
-  Menu,
-  X,
-  BookOpen,
-  Target,
-  Activity,
-  GraduationCap
-} from 'lucide-react';
+        <main>
+            <ul class="document-list">
+                <li class="document-item"><div class="document-title"><a href="notebooklm-import-raw/A%20Multi-Trail%20Forensic%20Approach%20to%20Identifying%20Hidden%20Coordination%20in%20Legal%20and%20Political%20Contexts.txt" target="_blank">A Multi-Trail Forensic Approach</a></div><div class="document-meta">Identifying Hidden Coordination in Legal and Political Contexts</div></li>
+                <li class="document-item"><div class="document-title"><a href="notebooklm-import-raw/The%20Honeypot%20Doctrine%20(Bars).txt" target="_blank">The Honeypot Doctrine (Bars)</a></div><div class="document-meta">Transformation from Target to Weapon</div></li>
+                <li class="document-item"><div class="document-title"><a href="notebooklm-import-raw/The%20Unlikely%20Classroom%20of%20Ryan%20Borland-%20A%20Study%20in%20Lived-In%20Wisdom.txt" target="_blank">The Unlikely Classroom of Ryan Borland</a></div><div class="document-meta">A Study in Lived-In Wisdom</div></li>
+                <li class="document-item"><div class="document-title"><a href="notebooklm-import-raw/Forensic%20Analysis%20of%20Jess-%20A%20Study%20in%20Relational%20Duality.txt" target="_blank">Forensic Analysis of Jess</a></div><div class="document-meta">A Study in Relational Duality</div></li>
+                <li class="document-item"><div class="document-title"><a href="notebooklm-import-raw/The%20Unseen%20War_%20Surviving%20Psychological%20Manipulati....txt" target="_blank">The Unseen War</a></div><div class="document-meta">Surviving Psychological Manipulation</div></li>
+                <li class="document-item"><div class="document-title"><a href="notebooklm-import-raw/Psychological%20%20Warfare%20Manual.txt" target="_blank">Psychological Warfare Manual</a></div><div class="document-meta">Doctrine of Non-Kinetic Warfare</div></li>
+                <li class="document-item"><div class="document-title"><a href="notebooklm-import-raw/The%20game%20now%20seen%20Final%20(1).txt" target="_blank">The Game Now Seen (Final 1)</a></div><div class="document-meta">Tactical Framework of Non-Kinetic Warfare</div></li>
+                <li class="document-item"><div class="document-title"><a href="notebooklm-import-raw/The%20game%20now%20seen%20Final.txt" target="_blank">The Game Now Seen (Final)</a></div><div class="document-meta">Tactical Framework of Non-Kinetic Warfare</div></li>
+                <li class="document-item"><div class="document-title"><a href="notebooklm-import-raw/Civilians%20as%20Weapons-%20The%20Silent%20Soldiers%20of%20a%20Setup.txt" target="_blank">Civilians as Weapons</a></div><div class="document-meta">The Silent Soldiers of a Setup</div></li>
+                <li class="document-item"><div class="document-title"><a href="notebooklm-import-raw/Ryan%20Overview.txt" target="_blank">Ryan Overview</a></div><div class="document-meta">Thematic Overview and Core Identity</div></li>
+            </ul>
+        </main>
 
-const App = () => {
-  const [activeModule, setActiveModule] = useState('overview');
-  const [expandedSection, setExpandedSection] = useState(null);
-  const [expandedAcademic, setExpandedAcademic] = useState({});
-  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-
-  const toggleAcademic = (tacticId, sectionId) => {
-    setExpandedAcademic(prev => ({
-      ...prev,
-      [`${tacticId}-${sectionId}`]: !prev[`${tacticId}-${sectionId}`]
-    }));
-  };
-
-  const modules = [
-    { id: 'overview', name: 'Overview', icon: Eye },
-    { id: 'tactics', name: 'Tactics Archive', icon: Target },
-    { id: 'defense', name: 'Counter-Protocols', icon: Shield },
-    { id: 'case-studies', name: 'Field Reports', icon: FileText }
-  ];
-
-  const academicContent = {
-    gaslighting: {
-      title: 'Neuroscience of Reality Distortion',
-      sections: [
-        {
-          id: 'cognitive-mechanisms',
-          title: 'Cognitive Mechanisms',
-          content: `Gaslighting exploits the brain's memory consolidation processes. The hippocampus, responsible for encoding contextual memories, becomes compromised when faced with repeated contradictory information from a trusted source. This creates cognitive dissonance where the target must reconcile internal experience with external denial.
-
-The brain naturally resolves dissonance by questioning the less certain sourcewhich, after sustained manipulation, becomes the target's own memory rather than the orchestrator's confident assertions.`
-        },
-        {
-          id: 'self-trust-erosion',
-          title: 'Self-Trust Erosion Cascade',
-          content: `Self-trust erosion follows three observable stages:
-
-1. Primary Doubt: "Did I remember that correctly?"
-2. Secondary Questioning: "Am I being too sensitive?"  
-3. Identity Crisis: "Can I trust my own judgment about anything?"
-
-The final stage represents complete internalization of the orchestrator's reality framework. Each stage builds on accumulated doubt from repeated manipulation cycles.`
-        },
-        {
-          id: 'pathologizing',
-          title: 'Pathologizing as Weapon',
-          content: `Weaponizing psychiatric language reframes normal responses as pathological. Appropriate reactions to provocation become "emotional dysregulation." Pattern recognition becomes "paranoia." 
-
-This co-opts legitimate clinical frameworks for manipulation. The target may research these conditions, embedding false self-diagnosis. Mental health professionals unfamiliar with systematic manipulation may inadvertently reinforce labels when presented only with decontextualized "symptoms."`
-        }
-      ]
-    },
-    darvo: {
-      title: 'Architecture of Blame Reversal',
-      sections: [
-        {
-          id: 'three-phase',
-          title: 'The Three-Phase Sequence',
-          content: `DARVO operates as a reliable tactical sequence:
-
-**DENY:** Confident denial buys time to assess evidence strength and establishes competing reality. Forces target into prosecutorial role of proving claims.
-
-**ATTACK:** Shifts emotional burden by questioning target's motives, mental state, or character. Target must now defend their decision to raise the issue.
-
-**REVERSE:** Repositions orchestrator as injured party. "Your confrontation is actually abusive" transforms the entire dynamic. Target defends their right to have boundaries.`
-        },
-        {
-          id: 'cognitive-load',
-          title: 'Cognitive Load Exploitation',
-          content: `DARVO overwhelms cognitive processing capacity. The target must simultaneously:
-- Maintain original argument
-- Defend against character attacks  
-- Reject victim/offender reversal
-- Manage emotional dysregulation
-
-This cognitive overload often results in abandoning the original concern to escape interaction complexity. Silence through exhaustion, not resolution through accountability.`
-        }
-      ]
-    },
-    'forced-reactive': {
-      title: 'Engineered Outrage Mechanics',
-      sections: [
-        {
-          id: 'provocation-cycle',
-          title: 'Provocation-Documentation Cycle',
-          content: `The cycle operates in four phases:
-
-1. **Provocation:** Calibrated stimuli targeting known triggers with plausible deniability
-2. **Escalation Management:** Control intensity to make response visible but instigation invisible
-3. **Documentation:** Capture reaction while omitting provocation  
-4. **Weaponization:** Present decontextualized reaction as evidence of instability
-
-Each cycle builds cumulative "pattern" of problematic behavior.`
-        },
-        {
-          id: 'amygdala-hijack',
-          title: 'Amygdala Hijack as Tactical Outcome',
-          content: `The amygdala hijack is the desired feature, not a bug. When triggered:
-
-- Elevated cortisol and heart rate
-- Reduced language center access
-- Impulse control reduction  
-- Memory encoding disruption
-
-Repeated hijacks create kindling effecteach subsequent provocation requires less stimulus. This progressive sensitization makes target increasingly "reactive," validating orchestrator's narrative.`
-        }
-      ]
-    }
-  };
-
-  const tactics = [
-    {
-      id: 'gaslighting',
-      name: 'Gaslighting',
-      category: 'Psychological Weaponization',
-      description: 'Systematic manipulation making targets question their own memory, perception, and sanity.',
-      objective: 'Erode self-trust and decision-making capabilities, creating dependency on orchestrator\'s reality.',
-      indicators: [
-        'Consistent denial of documented events with confident certainty',
-        'Trivializing feelings as "too sensitive" or "dramatic"',
-        'Memory discrepancy amplification: introducing false details',
-        'Pathologizing normal behaviors as mental illness',
-        'Claiming conversations "never happened"',
-        'Reframing harmful actions as your misinterpretation'
-      ],
-      counter: [
-        'Document with precise timestamps (text, audio, screenshots)',
-        'Trust initial perception before doubt sets in',
-        'Build external verification with trusted witnesses',
-        'Create attribution-proof logs',
-        'Practice psychological pivot: "This is orchestrated"',
-        'Never accept diagnosis from your abuser'
-      ]
-    },
-    {
-      id: 'darvo',
-      name: 'DARVO Framework',
-      category: 'Accountability Evasion',
-      description: 'Deny, Attack, Reverse Victim and Offender - systematic blame reversal.',
-      objective: 'Evade accountability by repositioning confronter as aggressor.',
-      indicators: [
-        'Immediate confident denial despite evidence',
-        'Rapid pivot to attacking character or mental state',
-        'Positioning themselves as real victim',
-        'Making you defend bringing up legitimate concerns',
-        'Claiming your boundaries are controlling',
-        'Accusing you of their exact behavior'
-      ],
-      counter: [
-        'Recognize three-phase pattern as it unfolds',
-        'Refuse to defend raising legitimate concerns',
-        'Document reversal sequence in real-time',
-        'Maintain framedon\'t accept role reversal',
-        'State facts without emotional investment',
-        'Disengage if reversal persists'
-      ]
-    },
-    {
-      id: 'forced-reactive',
-      name: 'Forced Reactive Posturing',
-      category: 'Engineered Scenarios',
-      description: 'Calculated provocation forcing defensive reactions weaponized as "proof" of instability.',
-      objective: 'Generate evidence by provoking justified reactions, then erasing provocation.',
-      indicators: [
-        'Subtle provocations with plausible deniability',
-        'Recording reactions while concealing instigation',
-        'Timing provocations when stressed or vulnerable',
-        'Witnesses appearing only for reaction, not setup',
-        'Provocations echoing known trauma triggers',
-        'Baiting with comments that feel like traps'
-      ],
-      counter: [
-        'Implement tactical pause: Stop, breathe, assess',
-        'Recognize bait by noticing word/intent incongruity',
-        'Deploy strategic silence',
-        'Document full context including provocation',
-        'Practice emotional detachment',
-        'Create own recordings capturing full context'
-      ]
-    }
-  ];
-
-  const defenseProtocols = [
-    {
-      id: 'breadcrumb-web',
-      name: 'The Breadcrumb Web',
-      type: 'Intelligence Gathering',
-      description: 'Systematic counter-surveillance transforming observations into objective evidence.',
-      implementation: [
-        'Maintain secure, timestamped logs of all suspicious interactions',
-        'Use burner devices for sensitive documentation',
-        'Capture multi-modal data: text, audio, screenshots, location',
-        'Build network of interconnected data points',
-        'Cross-reference patterns to expose orchestration'
-      ],
-      objective: 'Transform subjective experience into actionable intelligence'
-    },
-    {
-      id: 'dead-mans-switch',
-      name: 'Dead Man\'s Switch',
-      type: 'Strategic Deterrence',
-      description: 'Legal failsafe ensuring accountability if incapacitated or silenced.',
-      implementation: [
-        'Pre-execute legal agreement with third-party attorney',
-        'Establish automated trigger conditions',
-        'Secure encrypted evidence storage',
-        'Set up automatic dispatch system',
-        'Make orchestrators aware of switch existence'
-      ],
-      objective: 'Eliminate incentive for physical escalation through mutually assured exposure'
-    },
-    {
-      id: 'strategic-silence',
-      name: 'Doctrine of Strategic Silence',
-      type: 'Active Defense',
-      description: 'Refusing engagement to deny orchestrators reactive fuel.',
-      implementation: [
-        'Identify baiting attempts in real-time',
-        'Complete, unambiguous disengagement',
-        'No explanation, defense, or engagement',
-        'Force escalation to provable offense',
-        'Break their predictive model'
-      ],
-      objective: 'Starve attrition loop by denying emotional reaction'
-    }
-  ];
-
-  const TacticCard = ({ tactic, expanded, onToggle }) => {
-    const hasAcademic = academicContent[tactic.id];
-    
-    return (
-      <div className="bg-zinc-900 border border-zinc-800 rounded-lg overflow-hidden hover:border-amber-600/30 transition-all">
-        <button
-          onClick={onToggle}
-          className="w-full p-6 text-left flex items-center justify-between hover:bg-zinc-800/50 transition-colors"
-        >
-          <div className="flex-1">
-            <div className="flex items-center gap-3 mb-2">
-              <AlertTriangle className="text-amber-600" size={20} />
-              <h3 className="text-xl font-bold text-gray-100">{tactic.name}</h3>
-              {hasAcademic && (
-                <span className="px-2 py-1 bg-blue-600/10 text-blue-600 text-xs font-mono rounded flex items-center gap-1">
-                  <GraduationCap size={12} />
-                  Academic Analysis
-                </span>
-              )}
-            </div>
-            <p className="text-sm text-amber-600 font-mono mb-2">{tactic.category}</p>
-            <p className="text-gray-400 text-sm">{tactic.description}</p>
-          </div>
-          {expanded ? <ChevronDown className="text-gray-500 ml-4 flex-shrink-0" /> : <ChevronRight className="text-gray-500 ml-4 flex-shrink-0" />}
-        </button>
-        
-        {expanded && (
-          <div className="border-t border-zinc-800 p-6 space-y-6 bg-black/20">
-            <div className="bg-red-900/10 border border-red-600/20 rounded-lg p-4">
-              <h4 className="text-xs font-mono text-red-600 uppercase mb-2">Orchestrator's Objective</h4>
-              <p className="text-gray-300 text-sm">{tactic.objective}</p>
-            </div>
-            
-            <div>
-              <h4 className="text-sm font-mono text-amber-600 uppercase mb-3 flex items-center gap-2">
-                <Eye size={14} /> Recognition Indicators
-              </h4>
-              <ul className="space-y-2">
-                {tactic.indicators.map((indicator, idx) => (
-                  <li key={idx} className="text-gray-300 text-sm flex items-start gap-2 pl-2 border-l border-amber-600/30">
-                    <span className="text-amber-600 mt-1 font-bold">’</span>
-                    <span>{indicator}</span>
-                  </li>
-                ))}
-              </ul>
-            </div>
-            
-            <div>
-              <h4 className="text-sm font-mono text-emerald-500 uppercase mb-3 flex items-center gap-2">
-                <Shield size={14} /> Counter-Protocol
-              </h4>
-              <ul className="space-y-2">
-                {tactic.counter.map((step, idx) => (
-                  <li key={idx} className="text-gray-300 text-sm flex items-start gap-2 pl-2 border-l border-emerald-600/30">
-                    <span className="text-emerald-500 font-mono font-bold">{String(idx + 1).padStart(2, '0')}.</span>
-                    <span>{step}</span>
-                  </li>
-                ))}
-              </ul>
-            </div>
-
-            {hasAcademic && (
-              <div className="border-t border-blue-600/20 pt-6 mt-6">
-                <div className="bg-blue-900/10 border border-blue-600/30 rounded-lg p-4 mb-4">
-                  <div className="flex items-center gap-2 mb-2">
-                    <GraduationCap className="text-blue-600" size={20} />
-                    <h4 className="text-lg font-bold text-blue-600">{academicContent[tactic.id].title}</h4>
-                  </div>
-                  <p className="text-gray-400 text-sm">Deep-dive academic analysis with theoretical frameworks and research foundations</p>
-                </div>
-
-                <div className="space-y-3">
-                  {academicContent[tactic.id].sections.map((section) => {
-                    const isExpanded = expandedAcademic[`${tactic.id}-${section.id}`];
-                    return (
-                      <div key={section.id} className="bg-zinc-800/50 border border-zinc-700 rounded-lg overflow-hidden">
-                        <button
-                          onClick={() => toggleAcademic(tactic.id, section.id)}
-                          className="w-full p-4 text-left flex items-center justify-between hover:bg-zinc-700/50 transition-colors"
-                        >
-                          <div className="flex items-center gap-2">
-                            <BookOpen size={16} className="text-blue-500" />
-                            <span className="text-gray-200 font-medium">{section.title}</span>
-                          </div>
-                          {isExpanded ? <ChevronDown size={16} className="text-gray-500" /> : <ChevronRight size={16} className="text-gray-500" />}
-                        </button>
-                        
-                        {isExpanded && (
-                          <div className="px-4 pb-4 border-t border-zinc-700">
-                            <div className="pt-4 text-gray-300 text-sm leading-relaxed whitespace-pre-line">
-                              {section.content}
-                            </div>
-                          </div>
-                        )}
-                      </div>
-                    );
-                  })}
-                </div>
-              </div>
-            )}
-          </div>
-        )}
-      </div>
-    );
-  };
-
-  const DefenseProtocolCard = ({ protocol }) => (
-    <div className="bg-zinc-900 border border-zinc-800 rounded-lg p-6 hover:border-emerald-600/30 transition-all">
-      <div className="flex items-start justify-between mb-4">
-        <div className="flex items-center gap-3">
-          <div className="p-2 bg-emerald-600/10 rounded">
-            <Shield className="text-emerald-600" size={24} />
-          </div>
-          <div>
-            <h3 className="text-xl font-bold text-gray-100">{protocol.name}</h3>
-            <p className="text-sm text-emerald-600 font-mono">{protocol.type}</p>
-          </div>
-        </div>
-        <Lock className="text-gray-600" size={20} />
-      </div>
-      
-      <p className="text-gray-400 text-sm mb-6">{protocol.description}</p>
-      
-      <div className="space-y-4">
-        <div>
-          <h4 className="text-xs font-mono text-gray-500 uppercase mb-2">Implementation Steps</h4>
-          <ul className="space-y-2">
-            {protocol.implementation.map((step, idx) => (
-              <li key={idx} className="text-gray-300 text-sm flex items-start gap-2">
-                <span className="text-emerald-600 font-mono text-xs mt-0.5">{String(idx + 1).padStart(2, '0')}.</span>
-                <span>{step}</span>
-              </li>
-            ))}
-          </ul>
-        </div>
-        
-        <div className="pt-4 border-t border-zinc-800">
-          <p className="text-xs text-gray-500 font-mono uppercase mb-1">Objective</p>
-          <p className="text-gray-300 text-sm italic">{protocol.objective}</p>
-        </div>
-      </div>
+        <footer>
+            <p>Generated for GitHub Pages deployment.</p>
+        </footer>
     </div>
-  );
-
-  const OverviewContent = () => (
-    <div className="space-y-12">
-      <div>
-        <h2 className="text-3xl font-bold text-gray-100 mb-6">The Unseen War: A Defense Manual</h2>
-        <p className="text-gray-400 leading-relaxed max-w-3xl mb-6">
-          This curriculum documents systematic psychological warfare operationsnon-kinetic campaigns designed to erode reality, reputation, and support networks through covert manipulation and plausible deniability.
-        </p>
-        <p className="text-gray-400 leading-relaxed max-w-3xl">
-          The objective: transform from target to analyst. From victim to counterintelligence operative. 
-          This is not paranoia. This is pattern recognition.
-        </p>
-      </div>
-
-      <div className="grid md:grid-cols-3 gap-6">
-        <div className="bg-zinc-900 border border-amber-600/30 rounded-lg p-6">
-          <div className="flex items-center gap-3 mb-4">
-            <div className="p-2 bg-amber-600/10 rounded">
-              <AlertTriangle className="text-amber-600" size={24} />
-            </div>
-            <h3 className="text-lg font-bold text-gray-100">Recognize</h3>
-          </div>
-          <p className="text-gray-400 text-sm">
-            Learn to identify the operational signatures of coordinated psychological campaigns before they escalate.
-          </p>
-        </div>
-
-        <div className="bg-zinc-900 border border-emerald-600/30 rounded-lg p-6">
-          <div className="flex items-center gap-3 mb-4">
-            <div className="p-2 bg-emerald-600/10 rounded">
-              <Shield className="text-emerald-600" size={24} />
-            </div>
-            <h3 className="text-lg font-bold text-gray-100">Defend</h3>
-          </div>
-          <p className="text-gray-400 text-sm">
-            Deploy strategic counter-protocols to deny orchestrators the reactive fuel they need to sustain attacks.
-          </p>
-        </div>
-
-        <div className="bg-zinc-900 border border-blue-600/30 rounded-lg p-6">
-          <div className="flex items-center gap-3 mb-4">
-            <div className="p-2 bg-blue-600/10 rounded">
-              <Activity className="text-blue-600" size={24} />
-            </div>
-            <h3 className="text-lg font-bold text-gray-100">Document</h3>
-          </div>
-          <p className="text-gray-400 text-sm">
-            Build irrefutable evidence networks that transform subjective experience into objective intelligence.
-          </p>
-        </div>
-      </div>
-
-      <div className="bg-black/40 border border-amber-600/20 rounded-lg p-8">
-        <div className="flex items-start gap-4">
-          <Zap className="text-amber-600 flex-shrink-0 mt-1" size={24} />
-          <div>
-            <h3 className="text-xl font-bold text-amber-600">Critical Warning</h3>
-            <p className="text-gray-300 text-sm leading-relaxed mb-4">
-              This manual is not for casual reading. It documents real psychological warfare operations that have destroyed lives. The tactics described here are currently active in the wild. If you're experiencing these patterns, you are not crazyyou're being systematically manipulated.
-            </p>
-            <p className="text-gray-400 text-xs">
-              Knowledge is your first defense. Recognition is your first victory.
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  );
-
-  const renderContent = () => {
-    switch (activeModule) {
-      case 'overview':
-        return <OverviewContent />;
-      case 'tactics':
-        return (
-          <div className="space-y-6">
-            <div className="mb-8">
-              <h2 className="text-3xl font-bold text-gray-100 mb-4">Tactics Archive</h2>
-              <p className="text-gray-400 leading-relaxed max-w-3xl">
-                Systematic manipulation tactics used in psychological warfare operations. Each entry includes recognition indicators, orchestrator objectives, and proven counter-protocols.
-              </p>
-            </div>
-            <div className="space-y-4">
-              {tactics.map((tactic) => (
-                <TacticCard 
-                  key={tactic.id}
-                  tactic={tactic}
-                  expanded={expandedSection === tactic.id}
-                  onToggle={() => setExpandedSection(expandedSection === tactic.id ? null : tactic.id)}
-                />
-              ))}
-            </div>
-          </div>
-        );
-      case 'defense':
-        return (
-          <div className="space-y-6">
-            <div className="mb-8">
-              <h2 className="text-3xl font-bold text-gray-100 mb-4">Counter-Protocols</h2>
-              <p className="text-gray-400 leading-relaxed max-w-3xl">
-                Strategic defense mechanisms designed to neutralize psychological warfare operations. These protocols transform reactive defense into proactive counterintelligence.
-              </p>
-            </div>
-            <div className="grid md:grid-cols-1 gap-6">
-              {defenseProtocols.map((protocol) => (
-                <DefenseProtocolCard key={protocol.id} protocol={protocol} />
-              ))}
-            </div>
-          </div>
-        );
-      case 'case-studies':
-        return (
-          <div className="space-y-6">
-            <div className="mb-8">
-              <h2 className="text-3xl font-bold text-gray-100 mb-4">Field Reports</h2>
-              <p className="text-gray-400 leading-relaxed max-w-3xl">
-                Documented case studies from active psychological warfare operations. These reports provide real-world examples of pattern recognition and successful counterintelligence operations.
-              </p>
-            </div>
-            <div className="bg-zinc-900 border border-zinc-800 rounded-lg p-8 text-center">
-              <FileText className="text-gray-600 mx-auto mb-4" size={48} />
-              <h3 className="text-xl font-bold text-gray-400 mb-2">Field Reports Coming Soon</h3>
-              <p className="text-gray-500">Detailed case studies and operational debriefs are currently being prepared for publication.</p>
-            </div>
-          </div>
-        );
-      default:
-        return <OverviewContent />;
-    }
-  };
-
-  return (
-    <div className="min-h-screen bg-black text-white font-inter">
-      <nav className="bg-zinc-900 border-b border-zinc-800 sticky top-0 z-50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex justify-between items-center h-16">
-            <div className="flex items-center gap-4">
-              <Shield className="text-amber-600" size={32} />
-              <span className="text-xl font-bold text-gray-100">The Unseen War</span>
-            </div>
-            
-            <div className="hidden md:flex items-center space-x-8">
-              {modules.map((module) => {
-                const Icon = module.icon;
-                return (
-                  <button
-                    key={module.id}
-                    onClick={() => setActiveModule(module.id)}
-                    className={`flex items-center gap-2 px-3 py-2 rounded-lg transition-colors ${
-                      activeModule === module.id 
-                        ? 'bg-amber-600/10 text-amber-600 border border-amber-600/30' 
-                        : 'text-gray-400 hover:text-gray-200 hover:bg-zinc-800'
-                    }`}
-                  >
-                    <Icon size={18} />
-                    <span className="font-medium">{module.name}</span>
-                  </button>
-                );
-              })}
-            </div>
-            
-            <button
-              onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-              className="md:hidden p-2 text-gray-400 hover:text-gray-200"
-            >
-              {mobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
-            </button>
-          </div>
-          
-          {mobileMenuOpen && (
-            <div className="md:hidden border-t border-zinc-800 py-4">
-              <div className="space-y-2">
-                {modules.map((module) => {
-                  const Icon = module.icon;
-                  return (
-                    <button
-                      key={module.id}
-                      onClick={() => {
-                        setActiveModule(module.id);
-                        setMobileMenuOpen(false);
-                      }}
-                      className={`w-full flex items-center gap-2 px-3 py-2 rounded-lg transition-colors ${
-                        activeModule === module.id 
-                          ? 'bg-amber-600/10 text-amber-600 border border-amber-600/30' 
-                          : 'text-gray-400 hover:text-gray-200 hover:bg-zinc-800'
-                      }`}
-                    >
-                      <Icon size={18} />
-                      <span className="font-medium">{module.name}</span>
-                    </button>
-                  );
-                })}
-              </div>
-            </div>
-          )}
-        </div>
-      </nav>
-
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        {renderContent()}
-      </main>
-    </div>
-  );
-};
-
-ReactDOM.render(<App />, document.getElementById('root'));
-    </script>
 </body>
 </html>
