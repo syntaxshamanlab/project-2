@@ -11,6 +11,7 @@ Three integrated forensic mind maps have been created to link people and concept
 
 ## 1. People & Relationships Mind Map
 **File**: `mindmap_people_relationships.txt`
+**Viewer**: `mindmap_people_relationships.html`
 **Graphic**: `mindmap_people_relationships.mermaid`
 **Focus**: How individuals relate to each other and to operations
 
@@ -34,6 +35,7 @@ Three integrated forensic mind maps have been created to link people and concept
 
 ## 2. Concepts & Frameworks Mind Map
 **File**: `mindmap_concepts_frameworks.txt`
+**Viewer**: `mindmap_concepts_frameworks.html`
 **Graphic**: `mindmap_concepts_frameworks.mermaid`
 **Focus**: How ideas and doctrines interconnect
 
@@ -60,6 +62,7 @@ Three integrated forensic mind maps have been created to link people and concept
 
 ## 3. People × Concepts Integration Mind Map
 **File**: `mindmap_people_concepts_integration.txt`
+**Viewer**: `mindmap_people_concepts_integration.html`
 **Graphic**: `mindmap_people_concepts_integration.mermaid`
 **Focus**: How specific people understand and engage with concepts
 
@@ -84,6 +87,13 @@ Three integrated forensic mind maps have been created to link people and concept
 - Lacey as pedagogical success (transformation)
 - Handlers as organizational perpetrators
 - Civilians as victims and recovery opportunities
+
+---
+
+## System Dashboard
+**File**: `mindmap_test_dashboard.html`
+**Focus**: Integrated view of all three mind maps
+**Use**: For testing, presentation, and holistic review of the forensic architecture.
 
 ---
 
