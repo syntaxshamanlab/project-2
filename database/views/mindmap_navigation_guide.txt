@@ -11,6 +11,7 @@ Three integrated forensic mind maps have been created to link people and concept
 
 ## 1. People & Relationships Mind Map
 **File**: `mindmap_people_relationships.txt`
+**Graphic**: `mindmap_people_relationships.mermaid`
 **Focus**: How individuals relate to each other and to operations
 
 **Contents**:
@@ -33,6 +34,7 @@ Three integrated forensic mind maps have been created to link people and concept
 
 ## 2. Concepts & Frameworks Mind Map
 **File**: `mindmap_concepts_frameworks.txt`
+**Graphic**: `mindmap_concepts_frameworks.mermaid`
 **Focus**: How ideas and doctrines interconnect
 
 **Contents**:
@@ -58,6 +60,7 @@ Three integrated forensic mind maps have been created to link people and concept
 
 ## 3. People × Concepts Integration Mind Map
 **File**: `mindmap_people_concepts_integration.txt`
+**Graphic**: `mindmap_people_concepts_integration.mermaid`
 **Focus**: How specific people understand and engage with concepts
 
 **Contents**:
