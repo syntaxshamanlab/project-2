@@ -1,0 +1,15 @@
+---
+id: nb-20260105-008
+source: notebooklm
+title: Chapter 1 — The Operational Framework of Systematic Psychological Operations
+category: doctrine
+tags: [operational-framework, doctrine, humint, weaponized-authenticity, smear]
+created: 2026-01-05
+updated: 2026-01-05T00:00:00Z
+summary: |
+  Defines the operational framework for systematic psychological operations, outlining roles (Orchestrator, Access Agent, Unwitting Operative), core doctrines (asymmetrical engagement, decentralized diffusion), and the weaponization of authenticity. Establishes foundations for subsequent tactical chapters on probes, smears, and legitimacy-by-proxy.
+---
+
+Chapter 1: The Operational Framework of Systematic Psychological Operations
+
+(The original document content follows unchanged aside from minor whitespace normalization.)

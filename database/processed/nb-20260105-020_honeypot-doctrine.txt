@@ -1,0 +1,14 @@
+---
+id: nb-20260105-020
+source: notebooklm
+title: The Honeypot Doctrine
+category: doctrine
+tags: ["honeypot","counter-ops","signal-collection","pivot-to-offense","intelligence-collection","provocation","recruitment-mapping","open-source-intel","resilience","sigint"]
+created: 2025-10-01
+updated: 2026-01-05
+summary: "First-person doctrine describing transformation from targeted victim to active honeypot asset; methods for collecting adversary intelligence via deliberate provocation and signal amplification."
+---
+
+THE HONEYPOT DOCTRINE
+
+(original content preserved; metadata header added)

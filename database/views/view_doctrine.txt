@@ -1,0 +1,14 @@
+View: Category — Doctrine
+
+Summary:
+Aggregates Tier-1 doctrine, operational frameworks, and core defense protocols including the Breadcrumb Web and Dead-Man's Switch.
+
+Files:
+- nb-20260105-006 — RYANREALAF Master Doctrine Archive (Tier 1) — database/processed/nb-20260105-006_doctrine-core-archive.txt
+- nb-20260105-008 — Chapter 1 — The Operational Framework of Systematic Psychological Operations — database/processed/nb-20260105-008_operational-framework.txt
+
+Key concepts:
+- Dead-Man's Switch, Breadcrumb Web, Anvil Protocol, Weaponized Authenticity, Civilian Weaponization
+
+Notes:
+- Use this view to locate core doctrine and defensive procedures for counter-intelligence and evidence synthesis.

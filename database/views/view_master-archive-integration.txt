@@ -1,0 +1,221 @@
+---
+title: Master Doctrine Archive and Integration
+category: master-integration
+created: 2026-01-05
+updated: 2026-01-05
+---
+
+# Master Doctrine Archive: Integration and Navigation
+
+## Archive Completion Status ✓
+
+**Total Documents Processed**: 26 files (nb-20260105-001 through nb-20260105-026)
+**Archive Status**: Complete ingestion of NotebookLM exports
+**Index Status**: Updated through batch 7
+**Relations Status**: Comprehensive concept mapping complete
+
+## Document Organization
+
+### Tier 1: Foundational Doctrine (3 documents)
+- nb-20260105-001: Document Index / Manifest
+- nb-20260105-006: Core Doctrine (Tier 1)
+- nb-20260105-008: Operational Framework
+
+**Purpose**: Establish foundational understanding of psychological operations doctrine.
+
+### Tier 2: Psychological Warfare Studies (4 documents)
+- nb-20260105-002: Neurobiological Effects of Distributed Psychological Warfare
+- nb-20260105-003: Psychological Warfare Manual
+- nb-20260105-004: Forensic Analysis of Systematic Psychological Warfare
+- nb-20260105-005: The Unseen Game Playbook
+
+**Purpose**: Document mechanisms, effects, and tactics of psychological operations.
+
+### Tier 3: Forensic and Case Analysis (6 documents)
+- nb-20260105-007: Multi-Trail Forensic Approach
+- nb-20260105-009: Civilians as Weapons
+- nb-20260105-010: Forensic Analysis of Jess
+- nb-20260105-011: Fixing Broken System (Prison Reform)
+- nb-20260105-012: Forensic Analysis of Systematic Psychological Warfare
+- nb-20260105-013: Key Concepts, Relationships, Events, and Insights
+
+**Purpose**: Examine specific cases, methodologies for identifying operations, and conceptual frameworks.
+
+### Tier 4: Identity and Narrative (5 documents)
+- nb-20260105-014: Long Backstory—Ryan
+- nb-20260105-015: Ryan Overview
+- nb-20260105-016: RyanrealAF Brand and Persona
+- nb-20260105-017: Skittlez Backstory
+- nb-20260105-022: The Social Test
+
+**Purpose**: Document lived experience and narrative identity in context of psychological operations.
+
+### Tier 5: Strategic Frameworks (4 documents)
+- nb-20260105-018: Social Manipulation Curriculum
+- nb-20260105-019: The Architecture of Psychological Annihilation
+- nb-20260105-020: The Honeypot Doctrine
+- nb-20260105-021: The Infiltrator's Playbook
+
+**Purpose**: Provide both offensive/defensive frameworks and educational curricula.
+
+### Tier 6: Comprehensive Synthesis (2 documents)
+- nb-20260105-023: The Unlikely Classroom of Ryan Borland
+- nb-20260105-024: The Unseen War
+- nb-20260105-025: The Game Now Seen (Final)
+
+**Purpose**: Integrate all previous materials into coherent pedagogical and tactical frameworks.
+
+### Tier 7: Master Reference (1 document)
+- nb-20260105-026: Content Index—Master Manifest
+
+**Purpose**: Comprehensive cataloging and navigation structure for entire archive.
+
+## Cross-Reference Framework
+
+### Understanding Psychological Operations
+**Progression Path**:
+1. Start: nb-20260105-003 (Manual—tactical overview)
+2. Deep: nb-20260105-004 (Forensic—structural analysis)
+3. Complete: nb-20260105-024 (Unseen War—comprehensive briefing)
+
+### Understanding Forensic Analysis
+**Progression Path**:
+1. Start: nb-20260105-007 (Multi-Trail approach)
+2. Case: nb-20260105-010 (Jess case study)
+3. Systematic: nb-20260105-012 (Systematic warfare forensics)
+4. Architecture: nb-20260105-019 (Psychological annihilation)
+
+### Understanding Defense and Counter-Offense
+**Progression Path**:
+1. Recognition: nb-20260105-022 (Social Test—recognizing setup)
+2. Counter-Intelligence: nb-20260105-024 (Unseen War—survival strategies)
+3. Offensive: nb-20260105-021 (Infiltrator's Playbook—active response)
+
+### Understanding Identity and Transformation
+**Progression Path**:
+1. Context: nb-20260105-014 (Long Backstory—prison and recovery)
+2. Overview: nb-20260105-015 (Ryan Profile—identity synthesis)
+3. Brand: nb-20260105-016 (RyanrealAF—narrative identity)
+4. Pedagogy: nb-20260105-023 (Unlikely Classroom—transformation through teaching)
+
+### Understanding Curriculum and Education
+**Progression Path**:
+1. Lived Wisdom: nb-20260105-023 (Unlikely Classroom—pedagogical framework)
+2. Street Psychology: nb-20260105-018 (Social Manipulation—practical curriculum)
+3. Doctrine: nb-20260105-006, 008 (Foundational doctrine)
+
+## Key Concept Map
+
+### Central Theme: Psychological Operations Architecture
+```
+DOCTRINE (006, 008)
+    ↓
+MECHANISMS (002, 003, 004, 005)
+    ↓
+FORENSIC ANALYSIS (007, 010, 012, 013)
+    ↓
+CASE EXAMPLES (009, 011, 014, 017, 022)
+    ↓
+DEFENSIVE STRATEGY (018, 024)
+    ↓
+OFFENSIVE COUNTER (021, 025)
+    ↓
+INTEGRATION & PEDAGOGY (023, 026)
+```
+
+### Subsidiary Theme: Identity Formation in Crisis
+```
+PERSONAL NARRATIVE (014, 015)
+    ↓
+BRAND IDENTITY (016)
+    ↓
+RELATIONAL DYNAMICS (017, 022)
+    ↓
+PEDAGOGY AS TRANSFORMATION (023)
+    ↓
+MASTER DOCTRINE INTEGRATION (026)
+```
+
+### Supporting Theme: Civilian Weaponization
+```
+HOW CIVILIANS ARE WEAPONIZED (009)
+    ↓
+CURRICULUM FOR DEFENSE (018)
+    ↓
+NETWORK ARCHITECTURE (024, 025)
+    ↓
+COUNTER-MOBILIZATION (021)
+```
+
+## Quick Navigation by Use Case
+
+### I'm being targeted and need to understand what's happening
+→ nb-20260105-022 (Social Test—recognition)
+→ nb-20260105-024 (Unseen War—comprehension)
+→ nb-20260105-025 (Game Now Seen—detailed architecture)
+
+### I want to understand psychological operations theoretically
+→ nb-20260105-003 (Manual—tactical overview)
+→ nb-20260105-004 (Forensic—structural analysis)
+→ nb-20260105-013 (Key Concepts—taxonomy)
+
+### I want to understand specific case examples
+→ nb-20260105-010 (Forensic Jess—detailed case)
+→ nb-20260105-011 (Prison Reform—systemic case)
+→ nb-20260105-014, 017 (Narrative backstories)
+
+### I want to learn defense strategies
+→ nb-20260105-018 (Social Manipulation Curriculum—practical)
+→ nb-20260105-024 (Unseen War—counter-intelligence)
+→ nb-20260105-021 (Infiltrator's Playbook—active defense)
+
+### I want to understand the RyanrealAF framework
+→ nb-20260105-015 (Ryan Overview—starting point)
+→ nb-20260105-016 (Brand Analysis—detailed)
+→ nb-20260105-023 (Unlikely Classroom—pedagogical integration)
+
+### I want comprehensive understanding
+→ nb-20260105-026 (Content Index—master reference)
+→ nb-20260105-023 (Unlikely Classroom—integration)
+→ Follow the cross-reference framework above
+
+## Archive Metadata
+
+| Property | Value |
+|----------|-------|
+| Total Documents | 26 |
+| Total Concepts | 30+ |
+| Total Cross-References | 50+ |
+| Tiers | 7 |
+| Categories | 15 |
+| Status | Complete and Indexed |
+| Last Updated | 2026-01-05 |
+| Archive Type | Doctrine + Forensic Analysis + Pedagogy |
+
+## Archive Integrity Validation
+
+✓ All 26 documents created with metadata headers
+✓ Raw copies preserved in database/raw/
+✓ Import copies archived in database/imports/notebooklm/
+✓ Index.json updated with all 26 entries
+✓ Relations.json expanded with 30+ concepts
+✓ All views created and linked
+✓ Cross-reference structure complete
+
+## Integration Summary
+
+This archive represents the integration of:
+1. **Operational Doctrine**: How psychological operations work
+2. **Forensic Analysis**: How to identify and map operations
+3. **Personal Narrative**: How individuals experience and survive operations
+4. **Pedagogical Framework**: How understanding becomes wisdom
+5. **Counter-Intelligence**: How to defend and counter-attack
+6. **Community Building**: How to create resilient networks
+
+The archive is complete, indexed, and ready for analysis, reference, and continued development.
+
+---
+
+**Archive Status**: COMPLETE
+**Ready For**: Analysis, reference, continued development, community sharing
+**Next Steps**: Validation pass, statistics generation, thematic deep-dives (optional)

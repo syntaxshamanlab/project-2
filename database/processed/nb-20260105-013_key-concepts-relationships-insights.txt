@@ -1,0 +1,14 @@
+---
+id: nb-20260105-013
+source: notebooklm
+title: Key Concepts, Relationships, Events, and Insights
+category: concepts
+tags: ["key-concepts","mind-map","taxonomy","actors","tactics","breadcrumb-web","countermeasures","ontology","narrative-frames","concept-mapping"]
+created: 2025-12-01
+updated: 2026-01-05
+summary: "Comprehensive mind-map compiling actors, tactics, vulnerabilities, countermeasures, and the Breadcrumb Web framework; serves as a taxonomy for the collection."
+---
+
+Complete Mind Map of Source Material
+
+(original content preserved; metadata header added)

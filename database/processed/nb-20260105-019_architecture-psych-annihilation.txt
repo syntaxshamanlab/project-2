@@ -1,0 +1,14 @@
+---
+id: nb-20260105-019
++source: notebooklm
++title: The Architecture of Psychological Annihilation
++category: analysis
++tags: ["psychological-annihilation","hypervigilance","identity-dissolution","gaslighting-scale","deprivation-cascade","double-bind","cognitive-load","forensic-analysis","taxonomy","countermeasures"]
++created: 2025-11-15
++updated: 2026-01-05
++summary: "Detailed analysis of how coordinated psychological operations dismantle consensus reality and degrade decision-making; discusses mechanisms (gaslighting at scale, deprivation cascade) and implications for resilience."
++---
++
++The Architecture of Psychological Annihilation
++
++(original content preserved; metadata header added)

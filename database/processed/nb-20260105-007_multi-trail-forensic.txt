@@ -1,0 +1,17 @@
+---
+id: nb-20260105-007
+source: notebooklm
+title: A Multi-Trail Forensic Approach to Identifying Hidden Coordination
+category: forensic
+tags: [forensic-methods, multi-trail, coordination-detection, investigative-techniques, mapping]
+created: 2026-01-05
+updated: 2026-01-05T00:00:00Z
+summary: |
+  Presents a systematic Multi-Trail Forensic methodology to detect covert coordination across legal and political contexts by mapping converging streams of evidence (communications, media, procedural moves). Emphasizes temporal-node analysis, network mapping, and ethical data collection to reveal coordination signatures that single-trail investigations miss.
+---
+
+Tab 1
+ A Multi-Trail Forensic Approach to Identifying Hidden Coordination 
+Legal and Political Contexts
+
+(The original document content follows unchanged aside from minor whitespace normalization.)

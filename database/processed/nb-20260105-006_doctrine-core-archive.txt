@@ -1,0 +1,16 @@
+---
+id: nb-20260105-006
+source: notebooklm
+title: RYANREALAF Master Doctrine Archive (Tier 1)
+category: doctrine
+tags: [doctrine, breadcrumb-web, dead-man-switch, counter-intelligence, tactics]
+created: 2026-01-05
+updated: 2026-01-05T00:00:00Z
+summary: |
+  Consolidated Tier-1 doctrine and operational archive detailing foundational defense protocols (e.g., Dead-Man's Switch, Breadcrumb Web), manipulative tactics (DARVO, gaslighting), and development modules for counter-intelligence operations. The document blends theory, case studies, and tactical music/module artifacts to support evidence synthesis.
+---
+
+📚 RYANREALAF MASTER DOCTRINE ARCHIVE (V2: CONSOLIDATED)
+This document synthesizes the foundational theory, active development modules, and deep psychological context of the counter-intelligence curriculum into one unified archive.
+
+(The original document content follows unchanged aside from minor whitespace normalization.)

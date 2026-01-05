@@ -1,0 +1,855 @@
+[
+  {
+    "id": "nb-20260105-001",
+    "title": "Document Index",
+    "category": "index",
+    "tags": [
+      "index",
+      "notebooklm",
+      "documents",
+      "listing",
+      "manifest",
+      "metadata"
+    ],
+    "path": "database/processed/index.txt",
+    "summary": "This document is an index listing the NotebookLM export files contained in the import directory. It enumerates each raw document filename to provide a manifest for ingestion and cross-referencing."
+  },
+  {
+    "id": "nb-20260105-002",
+    "title": "The Neurobiological Sequelae of Distributed Psychological Warfare",
+    "category": "psychological-warfare",
+    "tags": [
+      "psychological-warfare",
+      "neurobiology",
+      "c-ptsd",
+      "allostatic-load",
+      "coercive-control",
+      "forensic-analysis"
+    ],
+    "path": "database/processed/nb-20260105-002_psychological-warfare-effects.txt",
+    "summary": "This expert report analyzes a four-year case of distributed psychological warfare and its neurobiological impacts, arguing the target's symptoms are trauma responses rather than primary psychiatric illness."
+  },
+  {
+    "id": "nb-20260105-003",
+    "title": "Psychological Warfare Manual",
+    "category": "manual",
+    "tags": [
+      "psychological-warfare",
+      "doctrine",
+      "humint",
+      "tactics",
+      "breadcrumb-web",
+      "dead-man-switch"
+    ],
+    "path": "database/processed/nb-20260105-003_psychological-warfare-manual.txt",
+    "summary": "A tactical blueprint detailing doctrines, HUMINT structure, offensive maneuvers, and counter-offensive defenses including the Breadcrumb Web and Dead-Man's Switch."
+  },
+  {
+    "id": "nb-20260105-004",
+    "title": "Forensic Analysis: The Architecture of Systematic Psychological Warfare",
+    "category": "forensic",
+    "tags": [
+      "forensic-analysis",
+      "psychological-warfare",
+      "humint",
+      "institutional-weaponization",
+      "smear-campaign"
+    ],
+    "path": "database/processed/nb-20260105-004_forensic-analysis-psych-warfare.txt",
+    "summary": "Forensic mapping of systematic psychological campaigns: doctrine, HUMINT network structure, exploitation cycles, and institutional co-option with recommendations for evidence collection."
+  },
+  {
+    "id": "nb-20260105-005",
+    "title": "The Unseen Game: The Playbook",
+    "category": "playbook",
+    "tags": [
+      "soft-probe",
+      "loyalty-test",
+      "social-engineering",
+      "smear",
+      "breadcrumb-web"
+    ],
+    "path": "database/processed/nb-20260105-005_the-unseen-game-playbook.txt",
+    "summary": "A playbook chapter describing \"soft probes\" and \"loyalty tests\": reconnaissance maneuvers that collect behavioral intelligence and methods for detection and countermeasures."
+  },
+  {
+    "id": "nb-20260105-009",
+    "title": "Civilians as Weapons: The Silent Soldiers of a Setup",
+    "category": "weaponization",
+    "tags": [
+      "civilian-weaponization",
+      "weaponized-civilians",
+      "disinformation",
+      "social-engineering",
+      "surveillance",
+      "rumor",
+      "gaslighting",
+      "community-resilience",
+      "inoculation-theory",
+      "breadcrumb-web"
+    ],
+    "path": "database/processed/nb-20260105-009_civilians-weaponized-silent-soldiers.txt",
+    "summary": "Examines how ordinary civilians are co-opted into disinformation and smear campaigns; documents mechanisms, indicators, impacts, and resistance strategies for detection and remediation."
+  },
+  {
+    "id": "nb-20260105-010",
+    "title": "Forensic Analysis of Jess: A Study in Relational Duality",
+    "category": "forensic-case",
+    "tags": [
+      "forensic-analysis",
+      "relational-duality",
+      "gaslighting",
+      "darvo",
+      "asymmetric-loyalty",
+      "housing-weaponization",
+      "breadcrumb-web",
+      "content-as-record",
+      "apology-paradox",
+      "documentation"
+    ],
+    "path": "database/processed/nb-20260105-010_forensic-jess-relational-duality.txt",
+    "summary": "Forensic deconstruction of a long-term relationship exhibiting manipulation, DARVO patterns, and the weaponization of housing; includes case studies and countermeasures."
+  },
+  {
+    "id": "nb-20260105-011",
+    "title": "Fixing Broken System (transcript)",
+    "category": "transcript",
+    "tags": [
+      "prison-reform",
+      "rehabilitation",
+      "victim-empathy",
+      "restorative-justice",
+      "recovery",
+      "community-support",
+      "personal-transformation",
+      "policy-critique",
+      "rehab",
+      "embrace-the-suck"
+    ],
+    "path": "database/processed/nb-20260105-011_fixing-broken-system-transcript.txt",
+    "summary": "Transcript discussing correctional reform, the importance of treatment over warehousing, personal rehabilitation via victim-empathy education, and community-based support as recidivism mitigation."
+  },
+  {
+    "id": "nb-20260105-012",
+    "title": "Forensic Analysis of Systematic Psychological Warfare",
+    "category": "forensic",
+    "tags": [
+      "systematic-psychological-warfare",
+      "forensic-analysis",
+      "psychological-attrition",
+      "c-ptsd",
+      "breadcrumb-web",
+      "tactical-pause",
+      "dead-mans-switch",
+      "justification-engine",
+      "algorithmic-amplification",
+      "response-control"
+    ],
+    "path": "database/processed/nb-20260105-012_forensic-systematic-psych-warfare.txt",
+    "summary": "Doctrine-level report on systematic psychological warfare, describing attrition loops, plausible deniability, cognitive degradation, and practical countermeasures."
+  },
+  {
+    "id": "nb-20260105-013",
+    "title": "Key Concepts, Relationships, Events, and Insights",
+    "category": "concepts",
+    "tags": [
+      "key-concepts",
+      "mind-map",
+      "taxonomy",
+      "actors",
+      "tactics",
+      "breadcrumb-web",
+      "countermeasures",
+      "ontology",
+      "narrative-frames",
+      "concept-mapping"
+    ],
+    "path": "database/processed/nb-20260105-013_key-concepts-relationships-insights.txt",
+    "summary": "Comprehensive mind-map compiling actors, tactics, vulnerabilities, countermeasures, and the Breadcrumb Web framework; serves as a taxonomy for the collection."
+  },
+  {
+    "id": "nb-20260105-014",
+    "title": "Long Backstory \u2014 Ryan",
+    "category": "backstory",
+    "tags": [
+      "backstory",
+      "prison-education",
+      "rehabilitation",
+      "recovery-gym",
+      "personal-transformation",
+      "resilience",
+      "tutor",
+      "GED",
+      "street-life",
+      "panhandling",
+      "chronology"
+    ],
+    "path": "database/processed/nb-20260105-014_long-backstory-ryan.txt",
+    "summary": "Autobiographical backstory describing prison-to-recovery trajectory, educational transformation as a tutor, relationship history, and the development of resilience and survival strategies."
+  },
+  {
+    "id": "nb-20260105-015",
+    "title": "Ryan Overview",
+    "category": "profile",
+    "tags": [
+      "ryan",
+      "bio",
+      "identity",
+      "resilience",
+      "prison-education",
+      "recovery",
+      "relationships",
+      "hansel-and-gretel",
+      "breadcrumb-web",
+      "authenticity"
+    ],
+    "path": "database/processed/nb-20260105-015_ryan-overview.txt",
+    "summary": "Thematic overview of Ryan's identity, history, relationships, recovery journey, and systemic critiques; useful as a primary profile for the collection."
+  },
+  {
+    "id": "nb-20260105-016",
+    "title": "RyanrealAF: Brand & Persona Analysis",
+    "category": "analysis",
+    "tags": [
+      "brand-analysis",
+      "persona",
+      "narrative-identity",
+      "authenticity",
+      "radical-honesty",
+      "movement-architecture",
+      "linguistic-branding",
+      "trauma-informed",
+      "ryanrealaf",
+      "creative-collaboration"
+    ],
+    "path": "database/processed/nb-20260105-016_ryanrealaf-brand-persona.txt",
+    "summary": "Analysis of the `RyanrealAF` brand\u2014psychological, sociological, linguistic, and artistic perspectives\u2014detailing how narrative identity and radical honesty form the brand's core."
+  },
+  {
+    "id": "nb-20260105-017",
+    "title": "Skittlez Backstory \u2014 Full, Detailed Record",
+    "category": "backstory",
+    "tags": [
+      "skittlez",
+      "access-agent",
+      "trauma-twins",
+      "abandoned-complex",
+      "loyalty",
+      "service-dynamics",
+      "empathy-mapping",
+      "relational-dynamics",
+      "vulnerability-dossier",
+      "life-narrative"
+    ],
+    "path": "database/processed/nb-20260105-017_skittlez-backstory.txt",
+    "summary": "Comprehensive backstory of Skittlez, describing first contact, ritual dynamics, acts of loyalty, and the asymmetric relationship patterns; includes origin story and observed recruitment behaviors."
+  },
+  {
+    "id": "nb-20260105-018",
+    "title": "Know the Game: Street Psychology & Social Manipulation 101",
+    "category": "curriculum",
+    "tags": [
+      "social-manipulation",
+      "curriculum",
+      "gaslighting",
+      "rumors",
+      "doppelganger",
+      "defensive-strategies",
+      "documentation",
+      "media-literacy",
+      "street-psychology",
+      "training"
+    ],
+    "path": "database/processed/nb-20260105-018_social-manipulation-curriculum.txt",
+    "summary": "A modular curriculum teaching detection and defense against social manipulation: tactics, psychological effects, and practical countermeasures for reclaiming narrative control."
+  },
+  {
+    "id": "nb-20260105-019",
+    "title": "The Architecture of Psychological Annihilation",
+    "category": "analysis",
+    "tags": [
+      "psychological-annihilation",
+      "hypervigilance",
+      "identity-dissolution",
+      "gaslighting-scale",
+      "deprivation-cascade",
+      "double-bind",
+      "cognitive-load",
+      "forensic-analysis",
+      "taxonomy",
+      "countermeasures"
+    ],
+    "path": "database/processed/nb-20260105-019_architecture-psych-annihilation.txt",
+    "summary": "Detailed analysis of how coordinated psychological operations dismantle consensus reality and degrade decision-making; discusses mechanisms and implications for resilience."
+  },
+  {
+    "id": "nb-20260105-020",
+    "title": "The Honeypot Doctrine",
+    "category": "doctrine",
+    "tags": [
+      "honeypot-doctrine",
+      "strategic-pivot",
+      "sigint-collection",
+      "intelligence-platform",
+      "organized-crime",
+      "network-mapping",
+      "counterintelligence",
+      "transformation",
+      "victim-to-weapon",
+      "recruitment-analysis"
+    ],
+    "path": "database/processed/nb-20260105-020_honeypot-doctrine.txt",
+    "summary": "A transformational narrative detailing the shift from target to asset: how sustained harassment becomes intelligence collection, and how the victim becomes the weapon through strategic reframing."
+  },
+  {
+    "id": "nb-20260105-021",
+    "title": "The Infiltrator's Playbook: A Guide to Strategic Reversal",
+    "category": "tactical-manual",
+    "tags": [
+      "infiltration-strategy",
+      "tactical-reversal",
+      "psychological-weapons",
+      "counter-intelligence",
+      "operational-mindset",
+      "strategic-deception",
+      "narrative-control",
+      "truth-weapon",
+      "trauma-transformation",
+      "build-while-bleeding"
+    ],
+    "path": "database/processed/nb-20260105-021_infiltrator-playbook.txt",
+    "summary": "Tactical manual for transforming from target to proactive counter-operative. Outlines Infiltrator doctrine with inverse triangulation profiling, Breadcrumb Web as offensive weapon, and Dead Man's Switch deterrent."
+  },
+  {
+    "id": "nb-20260105-022",
+    "title": "The Social Test: A Narrative of Manipulation and Survival",
+    "category": "case-study",
+    "tags": [
+      "social-manipulation",
+      "setup-narrative",
+      "survival-strategy",
+      "loyalty-testing",
+      "coercion-tactics",
+      "honesty-weaponization",
+      "street-psychology",
+      "handler-dynamics",
+      "systemic-setup",
+      "resilience-journey"
+    ],
+    "path": "database/processed/nb-20260105-022_social-test-narrative.txt",
+    "summary": "First-person narrative examining systematic social testing and coercion. Documents loyalty tests disguised as assistance, orchestrated setups forcing illegal behavior, and escalating threats in street environments."
+  },
+  {
+    "id": "nb-20260105-023",
+    "title": "The Unlikely Classroom of Ryan Borland: A Study in Lived-In Wisdom",
+    "category": "pedagogy",
+    "tags": [
+      "lived-education",
+      "prison-teaching",
+      "street-wisdom",
+      "authenticity-pedagogy",
+      "relational-pedagogy",
+      "trauma-as-teacher",
+      "betrayal-curriculum",
+      "creative-combat",
+      "anvil-protocol",
+      "community-change"
+    ],
+    "path": "database/processed/nb-20260105-023_unlikely-classroom.txt",
+    "summary": "Examines how Ryan Borland transformed brutal lived experience into unique pedagogy. Analyzes prison teaching methodology, syllabus of scars (Lacey, Jess, Emily), and crystallization into RyanrealAF gospel."
+  },
+  {
+    "id": "nb-20260105-024",
+    "title": "The Unseen War: Surviving Psychological Manipulation",
+    "category": "strategic-brief",
+    "tags": [
+      "psychological-warfare",
+      "non-kinetic-operations",
+      "narrative-control",
+      "counter-intelligence-doctrine",
+      "humint-networks",
+      "orchestration-analysis",
+      "defensive-protocols",
+      "breadcrumb-web",
+      "dead-man-switch",
+      "operational-survival"
+    ],
+    "path": "database/processed/nb-20260105-024_unseen-war.txt",
+    "summary": "Comprehensive strategic briefing synthesizing non-kinetic psychological warfare doctrine with counter-strategies. Covers HUMINT network model, exploitation cycle, and counter-offensive doctrine including Deep Dive model."
+  },
+  {
+    "id": "nb-20260105-025",
+    "title": "The Game Now Seen (Final)",
+    "category": "field-manual",
+    "tags": [
+      "tactical-framework",
+      "psychological-operations",
+      "non-kinetic-warfare",
+      "plausible-deniability",
+      "psychological-attrition",
+      "humint-networks",
+      "exploitation-protocols",
+      "counter-surveillance",
+      "strategic-defense",
+      "operational-analysis"
+    ],
+    "path": "database/processed/nb-20260105-025_game-now-seen.txt",
+    "summary": "Comprehensive field manual providing tactical deconstruction of systematic psychological operations. Covers doctrine of non-kinetic maneuver, asymmetric HUMINT threat models, and counter-offensive strategies with Three-Step Re-framing Protocol."
+  },
+  {
+    "id": "nb-20260105-026",
+    "title": "Content Index: RyanrealAF Master Doctrine Archive & Content Catalog",
+    "category": "reference-index",
+    "tags": [
+      "master-index",
+      "doctrine-catalog",
+      "tier-1-foundations",
+      "curriculum-architecture",
+      "content-organization",
+      "reference-guide",
+      "synthesis-document",
+      "knowledge-map",
+      "integrated-archive",
+      "operational-reference"
+    ],
+    "path": "database/processed/nb-20260105-026_content-index.txt",
+    "summary": "Comprehensive index and organizational catalog of RyanrealAF Master Doctrine Archive. Provides structured overview of Tier 1 Core Doctrine and cross-references across all doctrinal materials and operational frameworks."
+  },
+  {
+    "id": "nb-20260105-027",
+    "title": "Psychological  Warfare Manual",
+    "category": "psychological-warfare",
+    "tags": [
+      "psychological-warfare",
+      "doctrine",
+      "manipulation",
+      "tactical",
+      "strategic"
+    ],
+    "path": "database/processed/nb-20260105-027_Psychological  Warfare Manual.txt",
+    "summary": "\ufeffPsychological \nWarfare Manual\n________________\n\n\n\n\n0.0 Preface: Doctrine of Non-Kinetic Warfare\nThis manual serves as a comprehensive tactical guide for understanding, analyzing, and countering so..."
+  },
+  {
+    "id": "nb-20260105-028",
+    "title": "index content",
+    "category": "reference-index",
+    "tags": [
+      "reference-index",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-028_index_content.py",
+    "summary": "import os\nfrom pathlib import Path\n\ndirectory = Path('notebooklm-import-raw')\nindex = []\n\nfor file_path in directory.glob('*.txt'):\n    if file_path.name == 'index.txt' or file_path.name == 'index_..."
+  },
+  {
+    "id": "nb-20260105-029",
+    "title": "Forensic Analysis of Systematic Psychological Warf...",
+    "category": "forensic-analysis",
+    "tags": [
+      "forensic-analysis",
+      "psychological-warfare",
+      "doctrine",
+      "notebooklm",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-029_Forensic Analysis of Systematic Psychological Warf....txt",
+    "summary": "\ufeffForensic Analysis of Systematic Psychological Warfare: Pathology, Cognitive Degradation, and Decision-Making Impairment\nI. EXECUTIVE SUMMARY: THE EROSION OF COGNITIVE INTEGRITY\nSystematic psycholo..."
+  },
+  {
+    "id": "nb-20260105-030",
+    "title": "The Architecture of Psychological Annihilation .",
+    "category": "psychological-warfare",
+    "tags": [
+      "psychological-warfare",
+      "identity",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-030_The Architecture of Psychological Annihilation_..txt",
+    "summary": "\ufeffThe Architecture of Psychological Annihilation\n________________\n\n\n\ud83e\udded Table of Contents\n\n\n* Introduction\n* The Foundational Betrayal: When Consensus Reality Becomes Your Enemy\n* Hypervigilance: The ..."
+  },
+  {
+    "id": "nb-20260105-031",
+    "title": "index content",
+    "category": "reference-index",
+    "tags": [
+      "reference-index",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-031_index_content.js",
+    "summary": "const fs = require('fs');\nconst path = require('path');\n\nconst directory = 'notebooklm-import-raw';\nconst files = fs.readdirSync(directory).filter(f => f.endsWith('.txt') && f !== 'index.txt' && f ..."
+  },
+  {
+    "id": "nb-20260105-032",
+    "title": "Social manipulation final",
+    "category": "miscellaneous",
+    "tags": [
+      "miscellaneous",
+      "manipulation",
+      "narrative",
+      "curriculum",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-032_Social manipulation final.txt",
+    "summary": "\ufeffIntroduction: Mastering the Game\nWelcome to Know the Game: Street Psychology & Social Manipulation 101. This curriculum isn\u2019t your average textbook\u2014it\u2019s a raw, streetwise guide to understanding an..."
+  },
+  {
+    "id": "nb-20260105-033",
+    "title": "The Honeypot Doctrine (Bars)",
+    "category": "doctrine",
+    "tags": [
+      "doctrine",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-033_The Honeypot Doctrine (Bars).txt",
+    "summary": "\ufeffTHE HONEYPOT DOCTRINE\nMy Transformation from Target to Weapon\nPROLOGUE: WHEN SURVIVAL BECOMES STRATEGY\nListen. I didn't start as a WEAPON, I was just a TARGET, A soul caught in the mesh-lock, wher..."
+  },
+  {
+    "id": "nb-20260105-034",
+    "title": "Forensic Analysis of Jess- A Study in Relational Duality",
+    "category": "forensic-analysis",
+    "tags": [
+      "forensic-analysis",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-034_Forensic Analysis of Jess- A Study in Relational Duality.txt",
+    "summary": "\ufeffA Forensic Analysis of Jess: A Study in Relational Duality\n Updated with Recent Evidentiary Material\n\n\n---\n\n\n 1.0 Introduction: The Central Paradox of a Foundational Relationship\n\n\nThe relationshi..."
+  },
+  {
+    "id": "nb-20260105-035",
+    "title": "fixing broken system 2023-12-05 09 15.m4a",
+    "category": "miscellaneous",
+    "tags": [
+      "miscellaneous",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-035_fixing broken system 2023-12-05 09_15.m4a.txt",
+    "summary": "\ufeffI want to ask everyone this one simple question and that is Do we have to lock up everyone like they're fucking dogs Like they're a rabbit dog that's gonna bite people Take for example somebody wh..."
+  },
+  {
+    "id": "nb-20260105-036",
+    "title": "The game now seen Final",
+    "category": "field-manual",
+    "tags": [
+      "field-manual",
+      "psychological-warfare",
+      "doctrine",
+      "tactical",
+      "strategic",
+      "psychological-operations"
+    ],
+    "path": "database/processed/nb-20260105-036_The game now seen Final.txt",
+    "summary": "\ufeffChapter 1: The Tactical Framework of Non-Kinetic Warfare\nThis chapter analyzes the core strategic principles that distinguish systematic psychological operations from individual acts of malice, fo..."
+  },
+  {
+    "id": "nb-20260105-037",
+    "title": "## DOCTRINE CONTENT.md   (Tier 1  Core Doctrine...",
+    "category": "doctrine",
+    "tags": [
+      "doctrine",
+      "identity",
+      "curriculum",
+      "notebooklm",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-037_## DOCTRINE_CONTENT.md___(Tier 1_ Core Doctrine....txt",
+    "summary": "\ufeff\ud83d\udcda RYANREALAF MASTER DOCTRINE ARCHIVE (V2: CONSOLIDATED)\nThis document synthesizes the foundational theory, active development modules, and deep psychological context of the counter-intelligence cu..."
+  },
+  {
+    "id": "nb-20260105-038",
+    "title": "The Unseen Game  The Playbook",
+    "category": "playbook",
+    "tags": [
+      "playbook",
+      "manipulation",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-038_The Unseen Game_ The Playbook.txt",
+    "summary": "\ufeffChapter 1: The Soft Probe: Weaponizing Favors & Loyalty Tests\n1.0 Introduction: The Unseen Opening Move\nThis chapter initiates our deep dive into the architecture of modern manipulation, focusing ..."
+  },
+  {
+    "id": "nb-20260105-039",
+    "title": "long backstory ",
+    "category": "miscellaneous",
+    "tags": [
+      "miscellaneous",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-039_long backstory .txt",
+    "summary": "\ufeffSo many people have heard me talk about going to prison and, you know, most people probably think stabbings and stuff like that, but that was not my experience. When I went in, I was a high school..."
+  },
+  {
+    "id": "nb-20260105-040",
+    "title": "umpaandryry",
+    "category": "miscellaneous",
+    "tags": [
+      "miscellaneous",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-040_umpaandryry.txt",
+    "summary": "\ufeffChapter 1: \n\"Echoes of a Schoolyard Crush\"\nIn the backdrop of our shared history, Jess and I navigated the intricate world of school, where her longstanding crush clashed with my fixation on Kandi..."
+  },
+  {
+    "id": "nb-20260105-041",
+    "title": "RyanrealAF  A Multifaceted Analysis of Brand and Persona",
+    "category": "miscellaneous",
+    "tags": [
+      "miscellaneous",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-041_RyanrealAF_ A Multifaceted Analysis of Brand and Persona.txt",
+    "summary": "\ufeffRyanrealAF: A Multifaceted Analysis of Brand and Persona\nThis document examines the RyanrealAF brand through a variety of lenses, including psychological, sociological, linguistic, and artistic pe..."
+  },
+  {
+    "id": "nb-20260105-042",
+    "title": "The Unseen War  Surviving Psychological Manipulati...",
+    "category": "psychological-warfare",
+    "tags": [
+      "psychological-warfare",
+      "manipulation",
+      "strategic",
+      "notebooklm",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-042_The Unseen War_ Surviving Psychological Manipulati....txt",
+    "summary": "\ufeffThe Unseen War: Surviving Psychological Manipulation\nBriefing Document:\nThe Unseen War - Strategic Survival Against Social Manipulation and Psychological Warfare\nExecutive Summary\nThis briefing sy..."
+  },
+  {
+    "id": "nb-20260105-043",
+    "title": "The game now seen Final (1)",
+    "category": "field-manual",
+    "tags": [
+      "field-manual",
+      "psychological-warfare",
+      "doctrine",
+      "tactical",
+      "strategic",
+      "psychological-operations"
+    ],
+    "path": "database/processed/nb-20260105-043_The game now seen Final (1).txt",
+    "summary": "\ufeffChapter 1: The Tactical Framework of Non-Kinetic Warfare\nThis chapter analyzes the core strategic principles that distinguish systematic psychological operations from individual acts of malice, fo..."
+  },
+  {
+    "id": "nb-20260105-044",
+    "title": "The Unlikely Classroom of Ryan Borland- A Study in Lived-In Wisdom",
+    "category": "pedagogy",
+    "tags": [
+      "pedagogy",
+      "curriculum",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-044_The Unlikely Classroom of Ryan Borland- A Study in Lived-In Wisdom.txt",
+    "summary": "\ufeffThe Unlikely Classroom of Ryan Borland: A Study in Lived-In Wisdom\n\n\n1.0 Introduction: The Teacher Who Hated School\n\n\nThere is a central paradox at the heart of Ryan Borland\u2019s story: a high-school..."
+  },
+  {
+    "id": "nb-20260105-045",
+    "title": "Civilians as Weapons- The Silent Soldiers of a Setup",
+    "category": "miscellaneous",
+    "tags": [
+      "miscellaneous",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-045_Civilians as Weapons- The Silent Soldiers of a Setup.txt",
+    "summary": "\ufeffCivilians as Weapons: The Silent Soldiers of a Setup\n\n\nAbstract This volume explores the sophisticated psychological and sociopolitical strategies behind the weaponization of civilians in smear ca..."
+  },
+  {
+    "id": "nb-20260105-046",
+    "title": "index",
+    "category": "miscellaneous",
+    "tags": [
+      "miscellaneous",
+      "psychological-warfare",
+      "forensic-analysis",
+      "doctrine",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-046_index.txt",
+    "summary": "# Document Index\n\nThis index lists all documents in the notebooklm-import-raw directory. 1. ## DOCTRINE_CONTENT.md___(Tier 1_ Core Doctrine....txt\n2."
+  },
+  {
+    "id": "nb-20260105-047",
+    "title": "Skittlez Backstory \u2014 Full, Detailed Record",
+    "category": "miscellaneous",
+    "tags": [
+      "miscellaneous",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-047_Skittlez Backstory \u2014 Full, Detailed Record.txt",
+    "summary": "\ufeffSkittlez Backstory \u2014 Full, Detailed Record\n\n\n1) First contact and location\n\n\nYou were new to Santa Barbara and met a man who said he could \u201cget something.\u201d\n\n\nHe took you to an abandoned apartment ..."
+  },
+  {
+    "id": "nb-20260105-048",
+    "title": "Chapter 1  The Operational framework ",
+    "category": "miscellaneous",
+    "tags": [
+      "miscellaneous",
+      "psychological-warfare",
+      "humint",
+      "psychological-operations",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-048_Chapter 1_ The Operational framework .txt",
+    "summary": "\ufeffChapter 1: The Operational Framework of Systematic Psychological Operations\nThis chapter establishes the theoretical and methodological underpinnings for the study of covert psychological warfare...."
+  },
+  {
+    "id": "nb-20260105-049",
+    "title": "Psychological Warfare and Its Effects",
+    "category": "psychological-warfare",
+    "tags": [
+      "psychological-warfare",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-049_Psychological Warfare and Its Effects.txt",
+    "summary": "\ufeffThe Neurobiological Sequelae of Distributed Psychological Warfare: Analysis of Functional and Cognitive Collapse in a Case of Environmental Coercive Control\nI: Introduction and Theoretical Framewo..."
+  },
+  {
+    "id": "nb-20260105-050",
+    "title": "The Infiltrator's Playbook",
+    "category": "playbook",
+    "tags": [
+      "playbook",
+      "doctrine",
+      "tactical",
+      "strategic",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-050_The Infiltrator's Playbook.txt",
+    "summary": "\ufeffThe Infiltrator's Playbook: A Guide to Strategic Reversal\nForeword: Flipping the Script\nThis ain't for the faint of heart. This ain't about survival anymore. That was Phase One."
+  },
+  {
+    "id": "nb-20260105-051",
+    "title": "Forensic Analysis  Psychological Warfare",
+    "category": "forensic-analysis",
+    "tags": [
+      "forensic-analysis",
+      "psychological-warfare",
+      "doctrine",
+      "humint",
+      "manipulation",
+      "strategic"
+    ],
+    "path": "database/processed/nb-20260105-051_Forensic Analysis_ Psychological Warfare.txt",
+    "summary": "\ufeffForensic Analysis: The Architecture of Systematic Psychological Warfare and Social Manipulation\nI. Foundational Architecture and Doctrinal Framework (The Non-Kinetic Battlefield)\nThis analysis est..."
+  },
+  {
+    "id": "nb-20260105-052",
+    "title": "Social manipulation final (1)",
+    "category": "miscellaneous",
+    "tags": [
+      "miscellaneous",
+      "manipulation",
+      "narrative",
+      "curriculum",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-052_Social manipulation final (1).txt",
+    "summary": "\ufeffIntroduction: Mastering the Game\nWelcome to Know the Game: Street Psychology & Social Manipulation 101. This curriculum isn\u2019t your average textbook\u2014it\u2019s a raw, streetwise guide to understanding an..."
+  },
+  {
+    "id": "nb-20260105-053",
+    "title": "key concepts, relationships, events, and insights-",
+    "category": "miscellaneous",
+    "tags": [
+      "miscellaneous",
+      "psychological-warfare",
+      "manipulation",
+      "strategic",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-053_key concepts, relationships, events, and insights-.txt",
+    "summary": "\ufeff:# Complete Mind Map of Source Material\n\n\n### **I. Central Theme: Covert Destabilization & Psychological Warfare**\n*   **Definition:** Intentional, non-attributable efforts to undermine stability,..."
+  },
+  {
+    "id": "nb-20260105-054",
+    "title": "Ryan Overview",
+    "category": "miscellaneous",
+    "tags": [
+      "miscellaneous",
+      "strategic",
+      "narrative",
+      "identity",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-054_Ryan Overview.txt",
+    "summary": "\ufeff### **I. Introduction & Thematic Overview**\n\n\nThis compilation integrates raw, personal notes, narrative excerpts, and academic analyses to explore the profound impact of trauma, systemic failure,..."
+  },
+  {
+    "id": "nb-20260105-055",
+    "title": "The Social Test- A Narrative of Manipulation and Survival",
+    "category": "social-test",
+    "tags": [
+      "social-test",
+      "manipulation",
+      "narrative",
+      "notebooklm",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-055_The Social Test- A Narrative of Manipulation and Survival.txt",
+    "summary": "\ufeffThe Social Test: A Narrative of Manipulation and Survival\nThe Initial Setup: People Pulling into My Orbit\nThe story begins with a series of seemingly coincidental encounters. A friend, Skittlez, i..."
+  },
+  {
+    "id": "nb-20260105-056",
+    "title": "content index",
+    "category": "reference-index",
+    "tags": [
+      "reference-index",
+      "doctrine",
+      "curriculum",
+      "notebooklm",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-056_content_index.txt",
+    "summary": "File: ## DOCTRINE_CONTENT.md___(Tier 1_ Core Doctrine....txt\nTitle: \ud83d\udcda RYANREALAF MASTER DOCTRINE ARCHIVE (V2: CONSOLIDATED)\nSummary: This document synthesizes the foundational theory, active develo..."
+  },
+  {
+    "id": "nb-20260105-057",
+    "title": "A Multi-Trail Forensic Approach to Identifying Hidden Coordination in Legal and Political Contexts",
+    "category": "forensic-analysis",
+    "tags": [
+      "forensic-analysis",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ],
+    "path": "database/processed/nb-20260105-057_A Multi-Trail Forensic Approach to Identifying Hidden Coordination in Legal and Political Contexts.txt",
+    "summary": "\ufeffTab 1\n A Multi-Trail Forensic Approach to Identifying Hidden Coordination \nLegal and Political Contexts\n\n\n Abstract\n\n\nModern legal and political processes often conceal layers of coordination bene..."
+  }
+]

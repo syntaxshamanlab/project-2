@@ -1,0 +1,16 @@
+View: Category — Psychological Warfare
+
+Summary:
+This view aggregates documents focused on psychological warfare doctrine, forensic analysis, and tactical playbooks. It surfaces materials useful for forensic assessment, defense design, and operational understanding.
+
+Files:
+- nb-20260105-002 — The Neurobiological Sequelae of Distributed Psychological Warfare — database/processed/nb-20260105-002_psychological-warfare-effects.txt
+- nb-20260105-003 — Psychological Warfare Manual — database/processed/nb-20260105-003_psychological-warfare-manual.txt
+- nb-20260105-004 — Forensic Analysis: The Architecture of Systematic Psychological Warfare — database/processed/nb-20260105-004_forensic-analysis-psych-warfare.txt
+- nb-20260105-005 — The Unseen Game: The Playbook — database/processed/nb-20260105-005_the-unseen-game-playbook.txt
+
+Key concepts:
+- HUMINT network structure, Breadcrumb Web, Dead-Man's Switch, Soft Probes, Smear Campaigns, Legitimacy by Proxy, C-PTSD, Allostatic Load
+
+Notes:
+- Use this view to find doctrinal, forensic, and tactical resources related to distributed psychological campaigns and defenses.

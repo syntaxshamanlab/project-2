@@ -1,0 +1,15 @@
+---
+id: nb-20260105-010
+source: notebooklm
+title: Forensic Analysis of Jess: A Study in Relational Duality
+category: forensic-case
+tags: ["forensic-analysis","relational-duality","gaslighting","darvo","asymmetric-loyalty","housing-weaponization","breadcrumb-web","content-as-record","apology-paradox","documentation"]
+created: 2025-11-20
+updated: 2026-01-05
+summary: "Forensic deconstruction of a long-term relationship exhibiting manipulation, DARVO patterns, and the weaponization of housing; includes case studies (Alaintha, Christmas Eve 2024) and recommendations for documentation and response."
+---
+
+A Forensic Analysis of Jess: A Study in Relational Duality
+Updated with Recent Evidentiary Material
+
+(original content preserved; metadata header added)

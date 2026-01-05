@@ -1,0 +1,19 @@
+---
+id: nb-20260105-004
+source: notebooklm
+title: Forensic Analysis: The Architecture of Systematic Psychological Warfare
+category: forensic
+tags: [forensic-analysis, psychological-warfare, humint, institutional-weaponization, smear-campaign]
+created: 2026-01-05
+updated: 2026-01-05T00:00:00Z
+summary: |
+  A forensic overview of systematic psychological campaigns that maps doctrine, HUMINT network structure, exploitation cycles, and institutional co-option. It emphasizes evidence collection (Breadcrumb Web) and institutional safeguards to counter legitimacy-by-proxy tactics and reputation attacks.
+---
+
+Forensic Analysis: The Architecture of Systematic Psychological Warfare and Social Manipulation
+I. Foundational Architecture and Doctrinal Framework (The Non-Kinetic Battlefield)
+This analysis establishes the strategic and organizational blueprint for systematic psychological campaigns, which are characterized as an asymmetric threat executed through a networked human intelligence (HUMINT) unit.
+
+(The original document content follows unchanged aside from minor whitespace normalization.)
+
+[Full content preserved from notebooklm import]

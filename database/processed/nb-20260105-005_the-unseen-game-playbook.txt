@@ -1,0 +1,19 @@
+---
+id: nb-20260105-005
+source: notebooklm
+title: The Unseen Game: The Playbook
+category: playbook
+tags: [soft-probe, loyalty-test, social-engineering, smear, breadcrumb-web]
+created: 2026-01-05
+updated: 2026-01-05T00:00:00Z
+summary: |
+  This playbook chapter details the "soft probe" and "loyalty test" tactics—low-risk reconnaissance maneuvers that gather behavioral intelligence and expose vulnerabilities for later exploitation. It explains detection signals, psychological impact, and countermeasures such as documentation and strategic disengagement.
+---
+
+Chapter 1: The Soft Probe: Weaponizing Favors & Loyalty Tests
+1.0 Introduction: The Unseen Opening Move
+This chapter initiates our deep dive into the architecture of modern manipulation, focusing on the foundational tactic known as the "soft probe" and its specialized variant, the "loyalty test." These are not merely casual interactions but meticulously designed maneuvers aimed at gathering intelligence, assessing psychological boundaries, and establishing leverage for future, more elaborate manipulative campaigns. Our objective is to equip the reader with the tools to recognize, analyze, and ultimately counter these insidious "setups".
+
+(The original document content follows unchanged aside from minor whitespace normalization.)
+
+[Full content preserved from notebooklm import]

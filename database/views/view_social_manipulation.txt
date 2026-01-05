@@ -1,0 +1,7 @@
+View: Social Manipulation & Defense
+
+- Topic: social-manipulation
+- Documents: nb-20260105-018
+- Key concepts: gaslighting, rumor-weaponization, doppelganger-setups, defensive-strategies, documentation, narrative-control
+- Summary: A comprehensive curriculum covering tactics (seeding, reframing, rumor-spreading) and practical defenses (documentation, narrative reclamation, early setup detection).
+

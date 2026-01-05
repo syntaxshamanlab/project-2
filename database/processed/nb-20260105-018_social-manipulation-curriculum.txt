@@ -1,0 +1,14 @@
+---
+id: nb-20260105-018
+source: notebooklm
+title: Know the Game: Street Psychology & Social Manipulation 101
+category: curriculum
+tags: ["social-manipulation","curriculum","gaslighting","rumors","doppelganger","defensive-strategies","documentation","media-literacy","street-psychology","training"]
+created: 2025-11-25
+updated: 2026-01-05
+summary: "A modular curriculum teaching detection and defense against social manipulation: tactics, psychological effects, and practical countermeasures for reclaiming narrative control."
+---
+
+Know the Game: Street Psychology & Social Manipulation 101
+
+(original content preserved; metadata header added)

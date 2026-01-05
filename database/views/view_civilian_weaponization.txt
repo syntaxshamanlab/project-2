@@ -1,0 +1,6 @@
+View: Civilian Weaponization
+
+- Topic: civilian-weaponization
+- Documents: nb-20260105-009
+- Key concepts: weaponized-civilians, disinformation, social-engineering, surveillance, rumor, gaslighting, breadcrumb-web
+- Summary: Examines mechanisms that enlist ordinary civilians into smear/disinformation campaigns, indicators for detection (seeding, reframing, surveillance activation, staged provocation), impacts on targets and communities, and recommended detection and resistance measures (journaling, narrative jamming, coalition-building, legal recourse).

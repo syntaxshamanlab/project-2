@@ -1,0 +1,6 @@
+View: Systematic Psychological Warfare
+
+- Topic: systematic-psychological-warfare
+- Documents: nb-20260105-012
+- Key concepts: psychological-attrition, plausible-deniability, breadcrumb-web, tactical-pause, cognitive-inoculation
+- Summary: Doctrine-level synthesis of operational tactics used to erode cognitive integrity and recommended countermeasures for psychological hardening and legal/technical deterrence.

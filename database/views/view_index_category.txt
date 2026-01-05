@@ -1,0 +1,13 @@
+View: Category — index
+
+Summary:
+This view aggregates files categorized as `index`. It highlights documents that act as manifests or listings for the NotebookLM imports.
+
+Files:
+- nb-20260105-001 — Document Index — database/processed/index.txt
+
+Related concepts:
+- index, manifest, notebooklm, documents
+
+Notes:
+- Use this view to discover and validate import manifests before mass ingestion.

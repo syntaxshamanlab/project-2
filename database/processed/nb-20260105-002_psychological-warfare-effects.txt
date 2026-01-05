@@ -1,0 +1,20 @@
+---
+id: nb-20260105-002
+source: notebooklm
+title: The Neurobiological Sequelae of Distributed Psychological Warfare
+category: psychological-warfare
+tags: [psychological-warfare, neurobiology, c-ptsd, allostatic-load, coercive-control, forensic-analysis]
+created: 2026-01-05
+updated: 2026-01-05T00:00:00Z
+summary: |
+  This expert report analyzes a four-year case of distributed psychological warfare and its neurobiological impacts, arguing the target's symptoms are trauma responses rather than primary psychiatric illness. It outlines mechanisms—sanctuary destruction, goal blockade, and chemical coercion—that produce chronic hypervigilance, allostatic load, cognitive decline, and C-PTSD.
+---
+
+The Neurobiological Sequelae of Distributed Psychological Warfare: Analysis of Functional and Cognitive Collapse in a Case of Environmental Coercive Control
+I: Introduction and Theoretical Framework
+1.1 Contextualizing Coercive Control: Beyond Physical Confinement
+This expert report presents a comprehensive neuropsychological analysis of the effects of sustained psychological warfare on a target subject, drawing from a documented four-year campaign of coercive control executed primarily through systematic environmental manipulation. This case necessitates an updated theoretical framework for understanding control, as the methodologies employed represent a significant departure from historical models that required overt physical confinement, such as locked rooms or direct restraint.
+
+(The original document content follows unchanged aside from minor whitespace normalization.)
+
+[Full content preserved from notebooklm import]

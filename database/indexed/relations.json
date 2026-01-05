@@ -1,0 +1,766 @@
+[
+  {
+    "concept": "index",
+    "appears_in": [
+      "nb-20260105-001"
+    ],
+    "related_terms": [
+      "manifest",
+      "listing",
+      "metadata"
+    ]
+  },
+  {
+    "concept": "notebooklm",
+    "appears_in": [
+      "nb-20260105-001"
+    ],
+    "related_terms": [
+      "export",
+      "ingestion"
+    ]
+  },
+  {
+    "concept": "documents",
+    "appears_in": [
+      "nb-20260105-001"
+    ],
+    "related_terms": [
+      "files",
+      "records"
+    ]
+  },
+  {
+    "concept": "manifest",
+    "appears_in": [
+      "nb-20260105-001"
+    ],
+    "related_terms": [
+      "index",
+      "listing"
+    ]
+  },
+  {
+    "concept": "psychological-warfare",
+    "appears_in": [
+      "nb-20260105-002",
+      "nb-20260105-003",
+      "nb-20260105-004"
+    ],
+    "related_terms": [
+      "humint",
+      "forensic-analysis",
+      "c-ptsd",
+      "coercive-control"
+    ]
+  },
+  {
+    "concept": "humint",
+    "appears_in": [
+      "nb-20260105-003",
+      "nb-20260105-004"
+    ],
+    "related_terms": [
+      "tiered-network",
+      "operatives",
+      "handlers"
+    ]
+  },
+  {
+    "concept": "breadcrumb-web",
+    "appears_in": [
+      "nb-20260105-003",
+      "nb-20260105-004",
+      "nb-20260105-005"
+    ],
+    "related_terms": [
+      "documentation",
+      "timestamping",
+      "dead-man-switch"
+    ]
+  },
+  {
+    "concept": "soft-probe",
+    "appears_in": [
+      "nb-20260105-005"
+    ],
+    "related_terms": [
+      "loyalty-test",
+      "reconnaissance",
+      "psychological-probing"
+    ]
+  },
+  {
+    "concept": "smear",
+    "appears_in": [
+      "nb-20260105-003",
+      "nb-20260105-004",
+      "nb-20260105-005"
+    ],
+    "related_terms": [
+      "reputation-assassination",
+      "disinformation",
+      "social-exile"
+    ]
+  },
+  {
+    "concept": "inner-game",
+    "appears_in": [
+      "nb-20260105-005",
+      "nb-20260105-002"
+    ],
+    "related_terms": [
+      "gaslighting",
+      "atmospheric-shifts",
+      "premonitions"
+    ]
+  },
+  {
+    "concept": "doctrine",
+    "appears_in": [
+      "nb-20260105-006",
+      "nb-20260105-008"
+    ],
+    "related_terms": [
+      "dead-man-switch",
+      "anvil-protocol",
+      "integrity-axioms"
+    ]
+  },
+  {
+    "concept": "multi-trail",
+    "appears_in": [
+      "nb-20260105-007"
+    ],
+    "related_terms": [
+      "trail-mapping",
+      "nodes",
+      "convergence"
+    ]
+  },
+  {
+    "concept": "civilian-weaponization",
+    "appears_in": [
+      "nb-20260105-009"
+    ],
+    "related_terms": [
+      "weaponized-civilians",
+      "disinformation",
+      "social-engineering",
+      "surveillance",
+      "rumor",
+      "gaslighting"
+    ]
+  },
+  {
+    "concept": "forensic-jess",
+    "appears_in": [
+      "nb-20260105-010"
+    ],
+    "related_terms": [
+      "darvo",
+      "apology-paradox",
+      "housing-weaponization",
+      "asymmetric-loyalty"
+    ]
+  },
+  {
+    "concept": "prison-reform",
+    "appears_in": [
+      "nb-20260105-011"
+    ],
+    "related_terms": [
+      "rehabilitation",
+      "victim-empathy",
+      "restorative-justice",
+      "community-support"
+    ]
+  },
+  {
+    "concept": "systematic-psychological-warfare",
+    "appears_in": [
+      "nb-20260105-012"
+    ],
+    "related_terms": [
+      "psychological-attrition",
+      "c-ptsd",
+      "breadcrumb-web",
+      "justification-engine"
+    ]
+  },
+  {
+    "concept": "mind-map",
+    "appears_in": [
+      "nb-20260105-013"
+    ],
+    "related_terms": [
+      "taxonomy",
+      "actors",
+      "tactics",
+      "countermeasures"
+    ]
+  },
+  {
+    "concept": "backstory",
+    "appears_in": [
+      "nb-20260105-014"
+    ],
+    "related_terms": [
+      "prison-education",
+      "resilience",
+      "recovery",
+      "tutor"
+    ]
+  },
+  {
+    "concept": "ryan-profile",
+    "appears_in": [
+      "nb-20260105-015"
+    ],
+    "related_terms": [
+      "bio",
+      "identity",
+      "relationships",
+      "hansel-and-gretel",
+      "authenticity"
+    ]
+  },
+  {
+    "concept": "ryanrealaf-brand",
+    "appears_in": [
+      "nb-20260105-016"
+    ],
+    "related_terms": [
+      "persona",
+      "narrative-identity",
+      "authenticity",
+      "movement-architecture"
+    ]
+  },
+  {
+    "concept": "skittlez",
+    "appears_in": [
+      "nb-20260105-017"
+    ],
+    "related_terms": [
+      "access-agent",
+      "trauma-twins",
+      "loyalty",
+      "relational-dynamics"
+    ]
+  },
+  {
+    "concept": "social-manipulation",
+    "appears_in": [
+      "nb-20260105-018"
+    ],
+    "related_terms": [
+      "gaslighting",
+      "rumor-weaponization",
+      "doppelganger",
+      "defensive-strategies"
+    ]
+  },
+  {
+    "concept": "psychological-annihilation",
+    "appears_in": [
+      "nb-20260105-019"
+    ],
+    "related_terms": [
+      "hypervigilance",
+      "identity-dissolution",
+      "cognitive-load",
+      "resilience"
+    ]
+  },
+  {
+    "concept": "honeypot-doctrine",
+    "appears_in": [
+      "nb-20260105-020"
+    ],
+    "related_terms": [
+      "strategic-pivot",
+      "sigint-collection",
+      "network-mapping",
+      "victim-to-weapon"
+    ]
+  },
+  {
+    "concept": "infiltrator-strategy",
+    "appears_in": [
+      "nb-20260105-021"
+    ],
+    "related_terms": [
+      "tactical-reversal",
+      "inverse-triangulation",
+      "controlled-detonation",
+      "bait-shield"
+    ]
+  },
+  {
+    "concept": "social-test",
+    "appears_in": [
+      "nb-20260105-022"
+    ],
+    "related_terms": [
+      "loyalty-testing",
+      "handler-dynamics",
+      "coercion",
+      "honesty-weaponization"
+    ]
+  },
+  {
+    "concept": "lived-pedagogy",
+    "appears_in": [
+      "nb-20260105-023"
+    ],
+    "related_terms": [
+      "prison-teaching",
+      "authenticity-mandate",
+      "trauma-curriculum",
+      "anvil-protocol"
+    ]
+  },
+  {
+    "concept": "unseen-war",
+    "appears_in": [
+      "nb-20260105-024"
+    ],
+    "related_terms": [
+      "psychological-warfare",
+      "humint-networks",
+      "breadcrumb-web",
+      "deep-dive-model"
+    ]
+  },
+  {
+    "concept": "game-now-seen",
+    "appears_in": [
+      "nb-20260105-025"
+    ],
+    "related_terms": [
+      "non-kinetic-warfare",
+      "exploitation-cascade",
+      "counter-offensive",
+      "three-step-reframing"
+    ]
+  },
+  {
+    "concept": "master-doctrine-archive",
+    "appears_in": [
+      "nb-20260105-026"
+    ],
+    "related_terms": [
+      "tier-1-foundations",
+      "curriculum-architecture",
+      "knowledge-integration",
+      "operational-reference"
+    ]
+  },
+  {
+    "concept": "psychological-warfare",
+    "appears_in": [
+      "nb-20260105-027"
+    ],
+    "related_terms": [
+      "psychological-warfare",
+      "doctrine",
+      "manipulation",
+      "tactical",
+      "strategic"
+    ]
+  },
+  {
+    "concept": "reference-index",
+    "appears_in": [
+      "nb-20260105-028"
+    ],
+    "related_terms": [
+      "reference-index",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "forensic-analysis",
+    "appears_in": [
+      "nb-20260105-029"
+    ],
+    "related_terms": [
+      "forensic-analysis",
+      "psychological-warfare",
+      "doctrine",
+      "notebooklm",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "psychological-warfare",
+    "appears_in": [
+      "nb-20260105-030"
+    ],
+    "related_terms": [
+      "psychological-warfare",
+      "identity",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "reference-index",
+    "appears_in": [
+      "nb-20260105-031"
+    ],
+    "related_terms": [
+      "reference-index",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "miscellaneous",
+    "appears_in": [
+      "nb-20260105-032"
+    ],
+    "related_terms": [
+      "miscellaneous",
+      "manipulation",
+      "narrative",
+      "curriculum",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "doctrine",
+    "appears_in": [
+      "nb-20260105-033"
+    ],
+    "related_terms": [
+      "doctrine",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "forensic-analysis",
+    "appears_in": [
+      "nb-20260105-034"
+    ],
+    "related_terms": [
+      "forensic-analysis",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "miscellaneous",
+    "appears_in": [
+      "nb-20260105-035"
+    ],
+    "related_terms": [
+      "miscellaneous",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "field-manual",
+    "appears_in": [
+      "nb-20260105-036"
+    ],
+    "related_terms": [
+      "field-manual",
+      "psychological-warfare",
+      "doctrine",
+      "tactical",
+      "strategic",
+      "psychological-operations"
+    ]
+  },
+  {
+    "concept": "doctrine",
+    "appears_in": [
+      "nb-20260105-037"
+    ],
+    "related_terms": [
+      "doctrine",
+      "identity",
+      "curriculum",
+      "notebooklm",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "playbook",
+    "appears_in": [
+      "nb-20260105-038"
+    ],
+    "related_terms": [
+      "playbook",
+      "manipulation",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "miscellaneous",
+    "appears_in": [
+      "nb-20260105-039"
+    ],
+    "related_terms": [
+      "miscellaneous",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "miscellaneous",
+    "appears_in": [
+      "nb-20260105-040"
+    ],
+    "related_terms": [
+      "miscellaneous",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "miscellaneous",
+    "appears_in": [
+      "nb-20260105-041"
+    ],
+    "related_terms": [
+      "miscellaneous",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "psychological-warfare",
+    "appears_in": [
+      "nb-20260105-042"
+    ],
+    "related_terms": [
+      "psychological-warfare",
+      "manipulation",
+      "strategic",
+      "notebooklm",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "field-manual",
+    "appears_in": [
+      "nb-20260105-043"
+    ],
+    "related_terms": [
+      "field-manual",
+      "psychological-warfare",
+      "doctrine",
+      "tactical",
+      "strategic",
+      "psychological-operations"
+    ]
+  },
+  {
+    "concept": "pedagogy",
+    "appears_in": [
+      "nb-20260105-044"
+    ],
+    "related_terms": [
+      "pedagogy",
+      "curriculum",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "miscellaneous",
+    "appears_in": [
+      "nb-20260105-045"
+    ],
+    "related_terms": [
+      "miscellaneous",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "miscellaneous",
+    "appears_in": [
+      "nb-20260105-046"
+    ],
+    "related_terms": [
+      "miscellaneous",
+      "psychological-warfare",
+      "forensic-analysis",
+      "doctrine",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "miscellaneous",
+    "appears_in": [
+      "nb-20260105-047"
+    ],
+    "related_terms": [
+      "miscellaneous",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "miscellaneous",
+    "appears_in": [
+      "nb-20260105-048"
+    ],
+    "related_terms": [
+      "miscellaneous",
+      "psychological-warfare",
+      "humint",
+      "psychological-operations",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "psychological-warfare",
+    "appears_in": [
+      "nb-20260105-049"
+    ],
+    "related_terms": [
+      "psychological-warfare",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "playbook",
+    "appears_in": [
+      "nb-20260105-050"
+    ],
+    "related_terms": [
+      "playbook",
+      "doctrine",
+      "tactical",
+      "strategic",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "forensic-analysis",
+    "appears_in": [
+      "nb-20260105-051"
+    ],
+    "related_terms": [
+      "forensic-analysis",
+      "psychological-warfare",
+      "doctrine",
+      "humint",
+      "manipulation",
+      "strategic"
+    ]
+  },
+  {
+    "concept": "miscellaneous",
+    "appears_in": [
+      "nb-20260105-052"
+    ],
+    "related_terms": [
+      "miscellaneous",
+      "manipulation",
+      "narrative",
+      "curriculum",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "miscellaneous",
+    "appears_in": [
+      "nb-20260105-053"
+    ],
+    "related_terms": [
+      "miscellaneous",
+      "psychological-warfare",
+      "manipulation",
+      "strategic",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "miscellaneous",
+    "appears_in": [
+      "nb-20260105-054"
+    ],
+    "related_terms": [
+      "miscellaneous",
+      "strategic",
+      "narrative",
+      "identity",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "social-test",
+    "appears_in": [
+      "nb-20260105-055"
+    ],
+    "related_terms": [
+      "social-test",
+      "manipulation",
+      "narrative",
+      "notebooklm",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "reference-index",
+    "appears_in": [
+      "nb-20260105-056"
+    ],
+    "related_terms": [
+      "reference-index",
+      "doctrine",
+      "curriculum",
+      "notebooklm",
+      "notebooklm"
+    ]
+  },
+  {
+    "concept": "forensic-analysis",
+    "appears_in": [
+      "nb-20260105-057"
+    ],
+    "related_terms": [
+      "forensic-analysis",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm",
+      "notebooklm"
+    ]
+  }
+]

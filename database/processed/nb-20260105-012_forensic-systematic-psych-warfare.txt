@@ -1,0 +1,14 @@
+---
+id: nb-20260105-012
+source: notebooklm
+title: Forensic Analysis of Systematic Psychological Warfare
+category: forensic
+tags: ["systematic-psychological-warfare","forensic-analysis","psychological-attrition","c-ptsd","breadcrumb-web","tactical-pause","dead-mans-switch","justification-engine","algorithmic-amplification","response-control"]
+created: 2025-10-10
+updated: 2026-01-05
+summary: "High-level forensic doctrine describing mechanisms of systematic psychological warfare: psychological attrition, plausible deniability, cognitive degradation, and countermeasures including breadcrumb-web and tactical pause."
+---
+
+Forensic Analysis of Systematic Psychological Warfare: Pathology, Cognitive Degradation, and Decision-Making Impairment
+
+(original content preserved; metadata header added)

@@ -1,0 +1,17 @@
+---
+id: nb-20260105-009
+source: notebooklm
+title: Civilians as Weapons: The Silent Soldiers of a Setup
+category: weaponization
+tags: ["civilian-weaponization","weaponized-civilians","disinformation","social-engineering","surveillance","rumor","gaslighting","community-resilience","inoculation-theory","breadcrumb-web"]
+created: 2025-12-01
+updated: 2026-01-05
+summary: "Analysis of tactics that enlist ordinary civilians into disinformation and smear campaigns; outlines mechanisms (seeding, reframing, surveillance activation), impacts on targets/communities, and practical detection & resistance strategies."
+---
+
+Civilians as Weapons: The Silent Soldiers of a Setup
+
+
+Abstract This volume explores the sophisticated psychological and sociopolitical strategies behind the weaponization of civilians in smear campaigns and targeted influence operations. The foundational concept of how everyday individuals—often unknowingly—are enlisted into roles of surveillance, signal-boosting, provocation, and rumor dissemination. With updated terminology, new case studies, and an interdisciplinary framing suitable for counter-disinformation professionals, educators, and psychological warfare analysts, this edition examines how perception is engineered using trusted faces and familiar voices.
+
+(original content preserved; only metadata header added)

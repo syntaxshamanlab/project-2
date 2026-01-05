@@ -1,0 +1,22 @@
+---
+id: nb-20260105-003
+source: notebooklm
+title: Psychological Warfare Manual
+category: manual
+tags: [psychological-warfare, doctrine, humint, tactics, breadcrumb-web, dead-man-switch]
+created: 2026-01-05
+updated: 2026-01-05T00:00:00Z
+summary: |
+  This manual is a tactical blueprint outlining doctrines, HUMINT network structure, offensive tactics, and counter-offensive defenses against sophisticated psychological warfare. It provides operational concepts (Breadcrumb Web, Dead-Man's Switch) and case studies to operationalize defense and resilience.
+---
+
+Psychological 
+Warfare Manual
+________________
+
+0.0 Preface: Doctrine of Non-Kinetic Warfare
+This manual serves as a comprehensive tactical guide for understanding, analyzing, and countering sophisticated psychological warfare operations. It is designed for practitioners, researchers, and protective professionals who require a deep technical understanding of coordinated manipulation. The core doctrine of this discipline is non-kinetic maneuver, which dictates that strategic objectives are achieved without direct physical confrontation, instead utilizing human and social vulnerabilities as the primary battlespace.
+
+(The original document content follows unchanged aside from minor whitespace normalization.)
+
+[Full content preserved from notebooklm import]

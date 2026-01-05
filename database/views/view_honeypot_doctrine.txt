@@ -1,0 +1,7 @@
+View: Honeypot Doctrine & Intelligence Collection
+
+- Topic: honeypot-doctrine
+- Documents: nb-20260105-020
+- Key concepts: strategic-pivot, sigint-collection, intelligence-platform, victim-to-weapon, network-mapping, recruitment-analysis, open-source-intel
+- Summary: The transformation from targeted victim to active intelligence asset through deliberate provocation, network observation, and systematic collection of adversary operational patterns.
+
