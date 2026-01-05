@@ -1,0 +1,325 @@
+---
+title: Forensic Mind Map - People and Relationships
+type: relational-network
+created: 2026-01-05
+updated: 2026-01-05
+---
+
+# FORENSIC MIND MAP: People & Relationships
+
+## CENTRAL FIGURE: RYAN BORLAND (RyanrealAF)
+
+### Identity & Roles
+- **Primary Identity**: RyanrealAF (brand, persona, doctrine)
+- **Roles**: 
+  - Target (of psychological operations)
+  - Survivor (of systematic psychological warfare)
+  - Educator (The Unlikely Classroom pedagogy)
+  - Strategist (Infiltrator doctrine, counter-intelligence)
+  - Witness (forensic analyst of his own experience)
+
+**Source Documents**: 
+- nb-20260105-014 (Long Backstory)
+- nb-20260105-015 (Ryan Overview)
+- nb-20260105-016 (RyanrealAF Brand Analysis)
+- nb-20260105-023 (Unlikely Classroom)
+
+---
+
+## INNER CIRCLE: Direct Relationships
+
+### LACEY
+**Relationship Type**: Teacher-Student / Mentor Relationship
+**Nature**: Complex, involving boundary testing and loyalty dynamics
+**Context**: 
+- Ryan as educator/mentor figure
+- Boundary testing via Anvil Protocol
+- Recovery context
+- Personal transformation focus
+
+**Referenced in**:
+- nb-20260105-014 (Backstory mentions Lacey relationship)
+- nb-20260105-023 (Classroom pedagogy - Lacey as case study)
+
+**Concept Links**: Betrayal-curriculum, Anvil Protocol, pedagogy, authentic-education
+
+---
+
+### JESS  
+**Relationship Type**: Relational Forensic Case Study
+**Nature**: Documented example of manipulation and relational duality
+**Context**:
+- Housing-weaponization incident (Christmas Eve 2024)
+- Gaslighting and DARVO patterns
+- Relational asymmetry analysis
+- Forensic deconstruction
+
+**Referenced in**:
+- nb-20260105-010 (Forensic Analysis of Jess - primary case study)
+- nb-20260105-023 (Unlikely Classroom - Jess as pedagogical example)
+
+**Concept Links**: Forensic-analysis, relational-duality, gaslighting, DARVO, asymmetric-loyalty, housing-as-weapon
+
+---
+
+### EMILY
+**Relationship Type**: Creative Combat / Counter-Response
+**Nature**: Navigation between worlds (conventional and real understanding)
+**Context**:
+- Bridge between institutional and authentic understanding
+- Creative expression as resistance
+- Dual-world navigation
+
+**Referenced in**:
+- nb-20260105-023 (Unlikely Classroom - Emily as case study)
+
+**Concept Links**: Creative-expression, world-navigation, authenticity-challenge
+
+---
+
+### SKITTLEZ
+**Relationship Type**: Loyalty Dynamics / Trauma Bond
+**Nature**: Access agent, service-oriented, unconditional support despite asymmetry
+**Context**:
+- First contact ritual
+- Abandoned-complex exploitation
+- Service dynamics unequal but genuine
+- Loyalty as core identity
+
+**Referenced in**:
+- nb-20260105-017 (Skittlez Backstory - comprehensive narrative)
+- nb-20260105-023 (Unlikely Classroom - relational dynamics)
+
+**Concept Links**: Loyalty, trauma-twins, abandoned-complex, access-agent, service-dynamics, vulnerability-dossier
+
+---
+
+## OPERATIONAL NETWORK: People as Vectors
+
+### Handlers & Operatives (Unnamed/Generalized)
+**Role**: Orchestration of psychological operations
+**Tactics**:
+- Strategic positioning
+- Infiltration protocols
+- Narrative control
+- Isolation mechanisms
+- Exploitation escalation
+
+**Referenced in**:
+- nb-20260105-003 (Manual - handler doctrine)
+- nb-20260105-004 (Forensic - operational structure)
+- nb-20260105-012 (Systematic Psychological Warfare)
+- nb-20260105-022 (Social Test - specific handler narrative)
+- nb-20260105-024 (Unseen War - network model)
+
+**Concept Links**: HUMINT-networks, tiered-operations, handlers, operatives, command-level
+
+---
+
+### Weaponized Civilians
+**Role**: Unconscious agents in psychological operations
+**Mechanisms**:
+- Narrative capture (given false story about target)
+- Emotional activation (triggered to bypass rational thought)
+- Community mobilization (positioned against target)
+
+**Context**: 
+- Believe they're acting in good faith
+- Don't understand they serve operation's purposes
+- Can be recovered through education
+
+**Referenced in**:
+- nb-20260105-009 (Civilians as Weapons - primary analysis)
+- nb-20260105-024 (Unseen War - network integration)
+- nb-20260105-025 (Game Now Seen - exploitation cascade)
+
+**Concept Links**: Civilian-weaponization, narrative-capture, emotional-activation, community-mobilization, inoculation-theory
+
+---
+
+## CONCEPTUAL NETWORK: Ideas & Frameworks
+
+### CORE DOCTRINES
+
+**Tier 1 Foundational Doctrine**
+- Source: nb-20260105-006, 008
+- Concepts: core-principles, operational-structure, axioms
+- Evolution: Foundation for all subsequent analysis
+
+**Breadcrumb Web Doctrine**  
+- Source: nb-20260105-003, 005, 009, 012
+- Purpose: Documentation system, evidence preservation
+- Function: Personal counter-intelligence tool, dead-man's-switch backup
+
+**Honeypot Doctrine**
+- Source: nb-20260105-020
+- Transformation: Target → Asset (strategic pivot)
+- Mechanism: SIGINT collection, intelligence platform
+- Role: Post-victory repositioning
+
+**Infiltrator Doctrine**
+- Source: nb-20260105-021
+- Strategy: Inverse Protocol, Bait Shield, Controlled Detonation
+- Outcome: Transformation from prey to proactive counter-operative
+
+---
+
+### OPERATIONAL FRAMEWORKS
+
+**HUMINT Network Model**
+- Structure: Command → Operational → Intelligence → Implementation
+- Target Selection: Strategic value + vulnerability + isolation + threat-level
+- Referenced in: nb-20260105-003, 004, 012, 024, 025
+
+**Exploitation Cascade**
+- Stages: Identification → Positioning → Deepening → First Betrayal → Rationalization → Escalation → Isolation → Exploitation → Attempted Recovery → Terminal
+- Mechanism: Each stage creates conditions for next stage
+- Why it works: Target rationalizes rather than recognizes pattern
+- Referenced in: nb-20260105-025, 019
+
+**Psychological Vectoring**
+- Elements: Profile → Message → Messenger → Channel → Timing
+- Purpose: Targeted influence in operation-serving direction
+- Referenced in: nb-20260105-025
+
+---
+
+### DEFENSE & COUNTER FRAMEWORKS
+
+**Counter-Intelligence Capability**
+- Components: Documentation, External Verification, Narrative Clarity, Psychological Resilience
+- Sources: nb-20260105-024, 021
+
+**Forensic Analysis Methodology**
+- Multi-Trail Approach: Identifying hidden coordination
+- Timeline Mapping: When deterioration began
+- Relational Mapping: Who positioned against target
+- Narrative Deconstruction: False narratives and strategic purpose
+- Sources: nb-20260105-007, 010, 012, 019
+
+**Pedagogical Integration**
+- Anvil Protocol: Learning through ordeal
+- RyanrealAF Gospel: Core tenets of authentic understanding
+- Lived Wisdom: Prison education as transformation
+- Sources: nb-20260105-023
+
+---
+
+## RELATIONAL MATRIX: People ↔ Concepts
+
+```
+RYAN BORLAND
+    ├── Experienced: Psychological-warfare, Infiltration, C-PTSD
+    ├── Developed: Counter-intelligence, Breadcrumb-web, Infiltrator-doctrine
+    ├── Teaches: Relational-forensics, Authenticity, Resilience
+    ├── Studied: HUMINT-networks, Exploitation-cascade, Honeypot-doctrine
+    └── Practices: Anvil-protocol, RyanrealAF-gospel, Community-building
+
+LACEY
+    ├── Tested by: Anvil-protocol, Boundary-setting
+    ├── Learning: Authenticity-mandate, Relational-forensics
+    └── Reflects: Pedagogy-effectiveness
+
+JESS
+    ├── Subjected to: Exploitation-cascade, Relational-duality
+    ├── Documented by: Forensic-analysis, DARVO-patterns
+    └── Reveals: Housing-weaponization, Asymmetric-loyalty
+
+EMILY
+    ├── Navigates: World-duality, Creative-expression
+    ├── Bridging: Institutional vs. Authentic-understanding
+    └── Exemplifies: Survival-through-creativity
+
+SKITTLEZ
+    ├── Experiencing: Trauma-bond, Loyalty-dynamics
+    ├── Driven by: Abandoned-complex, Service-orientation
+    └── Demonstrates: Unconditional-support-despite-asymmetry
+
+HANDLERS/OPERATIVES
+    ├── Execute: Infiltration, HUMINT-gathering, Narrative-control
+    ├── Deploy: Exploitation-cascade, Psychological-vectoring
+    ├── Maintain: Plausible-deniability, Operational-structure
+    └── Coordinated via: HUMINT-networks, Tiered-command
+
+WEAPONIZED CIVILIANS
+    ├── Unknowingly: Spread-disinformation, Isolate-target
+    ├── Motivated by: False-narrative, Emotional-activation
+    ├── Can be: Recovered, De-weaponized, Re-educated
+    └── Mechanism: Narrative-capture, Community-mobilization
+```
+
+---
+
+## FORENSIC CASE STUDIES
+
+### Case: Jess (nb-20260105-010)
+**Pattern Identified**: Relational duality with housing weaponization
+**Key Incident**: Christmas Eve 2024 eviction
+**Mechanisms**: DARVO, gaslighting, apology-paradox
+**Forensic Value**: Documents how intimate relationships weaponize material resources
+
+### Case: Ryan (Multiple Documents)
+**Pattern Identified**: Coordinated multi-front psychological operation
+**Duration**: Multi-year targeting
+**Mechanisms**: Infiltration → Isolation → Pressure → Exploitation → Exposure
+**Forensic Value**: Documents how targets recognize, document, and counter operations
+
+### Case: Lacey (nb-20260105-014, 023)
+**Pattern Identified**: Transformation through pedagogical testing
+**Mechanism**: Anvil Protocol - education through ordeal
+**Forensic Value**: Documents how individuals move from victim to student to practitioner
+
+### Case: Skittlez (nb-20260105-017)
+**Pattern Identified**: Loyalty asymmetry within trauma bond
+**Mechanism**: Service-orientation exploited despite genuine affect
+**Forensic Value**: Documents how affection and manipulation coexist
+
+---
+
+## OPERATIONAL ARCHITECTURE SUMMARY
+
+```
+STRATEGIC LEVEL (Doctrine)
+    ↓
+TACTICAL LEVEL (HUMINT Networks, Exploitation Cascade)
+    ↓
+IMPLEMENTATION LEVEL (Handlers, Weaponized Civilians)
+    ↓
+TARGET LEVEL (Ryan, Jess, others)
+    ↓
+RESPONSE LEVEL (Forensic Analysis, Counter-Intelligence, Infiltrator Doctrine)
+    ↓
+INTEGRATION LEVEL (Pedagogy, Community Building, RyanrealAF Gospel)
+```
+
+---
+
+## CONCEPT DENSITY BY PERSON
+
+| Person | Primary Concepts | Forensic Value | Status |
+|--------|------------------|-----------------|--------|
+| Ryan | Warfare, Counter-intel, Doctrine, Pedagogy | Ultra-high (central case) | Survivor-Educator |
+| Jess | Relational-duality, Housing-weaponization, Gaslighting | High (specific case study) | Target (Christmas Eve) |
+| Lacey | Pedagogy, Authenticity-testing, Boundary-setting | High (transformation case) | Student→Practitioner |
+| Skittlez | Loyalty-dynamics, Trauma-bond, Service | Medium (relational pattern) | Loyal-despite-asymmetry |
+| Emily | Creative-expression, World-navigation | Medium (resilience pattern) | Bridge-builder |
+| Handlers | Infiltration, HUMINT, Exploitation | Ultra-high (operational structure) | Operational-level |
+| Civilians | Weaponization, Narrative-capture, Community | High (systemic mechanism) | Recovering-vectors |
+
+---
+
+## KEY INSIGHTS
+
+**Concentric Structure**: Ryan is at center (primary target and analyst); Lacey, Jess, Skittlez, Emily form inner circle (documented relationships); handlers and weaponized civilians form outer ring (operational infrastructure).
+
+**Transformation Arc**: Victim → Survivor → Analyst → Educator. Ryan's journey is the template for understanding how individuals move from targets to practitioners.
+
+**Dual Nature of People**: Everyone in network exists in dual capacity—both subject to operations and potential subject of analysis. Weaponized civilians can be de-weaponized; targets can become educators.
+
+**Documentation as Weapon**: The Breadcrumb Web and forensic methodology transform vulnerability into intelligence. Personal records become legal evidence; lived experience becomes doctrine.
+
+---
+
+**Map Status**: Active reference document
+**Last Updated**: 2026-01-05
+**Related Maps**: [Concept Mind Map], [Operational Architecture Map], [Counter-Intelligence Framework Map]

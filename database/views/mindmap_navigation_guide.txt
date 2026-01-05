@@ -1,0 +1,250 @@
+---
+title: Forensic Mind Maps - Navigation Guide
+type: reference-guide
+created: 2026-01-05
+updated: 2026-01-05
+---
+
+# Forensic Mind Maps: Navigation Guide
+
+Three integrated forensic mind maps have been created to link people and concepts across the archive:
+
+## 1. People & Relationships Mind Map
+**File**: `mindmap_people_relationships.txt`
+**Focus**: How individuals relate to each other and to operations
+
+**Contents**:
+- Central figure: Ryan Borland (identity, roles, transformation)
+- Inner circle: Lacey, Jess, Emily, Skittlez (documented relationships)
+- Operational network: Handlers, operatives, weaponized civilians
+- Relational matrix: People ↔ Concepts cross-mapping
+- Forensic case studies: Jess, Ryan, Lacey, Skittlez
+- Operational architecture: Strategic → Tactical → Implementation → Target → Response → Integration
+
+**Use When**: Understanding who is involved and how they relate
+
+**Key Insights**:
+- Ryan as central node (target, survivor, educator)
+- Inner circle as examples (Lacey transformation, Jess documentation, Emily resilience, Skittlez loyalty)
+- Handlers as perpetrators (organized structure)
+- Civilians as unwitting vectors (recoverable)
+
+---
+
+## 2. Concepts & Frameworks Mind Map
+**File**: `mindmap_concepts_frameworks.txt`
+**Focus**: How ideas and doctrines interconnect
+
+**Contents**:
+- Root concept: Psychological Operations Architecture
+- Doctrine cluster: Tier 1, Operational, Honeypot, Infiltrator doctrines
+- Mechanism cluster: HUMINT networks, exploitation cascade, vectoring, narrative control, weaponization, deniability
+- Forensic analysis cluster: Multi-trail approach, case studies, systematic analysis, annihilation architecture, synthesis
+- Counter-measure cluster: Unseen War, Infiltrator doctrine, Social curriculum, Pedagogy
+- Relational matrix: Concept cross-linking and chains
+- Concept density analysis: Frequency and centrality metrics
+- Innovation markers: Unique contributions of archive
+
+**Use When**: Understanding how ideas work and connect
+
+**Key Insights**:
+- Exploitation cascade (10-stage progression)
+- Breadcrumb Web (unique counter-intelligence tool)
+- Infiltrator doctrine (culmination of learning)
+- RyanrealAF gospel (pedagogical integration)
+- Anvil protocol (unique methodology)
+
+---
+
+## 3. People × Concepts Integration Mind Map
+**File**: `mindmap_people_concepts_integration.txt`
+**Focus**: How specific people understand and engage with concepts
+
+**Contents**:
+- Forensic matrix: Who understands what and when
+  - Ryan (experiences, recognizes, develops, teaches)
+  - Jess (experiences, examined, reveals)
+  - Lacey (experiences, tested, demonstrates)
+  - Emily (experiences, develops, demonstrates)
+  - Skittlez (experiences, demonstrates)
+  - Handlers (orchestrate, employ, detected by, countered by)
+  - Weaponized civilians (manipulated, act as, recovered through)
+- Operational forensic timeline: 8-phase progression
+- Conceptual density by relationship
+- Forensic question matrix: Who asks, how they know, source
+
+**Use When**: Understanding how specific people relate to specific concepts
+
+**Key Insights**:
+- Ryan's trajectory: Victim → Survivor → Analyst → Educator → Doctrine Developer
+- Jess as primary case study (relational warfare)
+- Lacey as pedagogical success (transformation)
+- Handlers as organizational perpetrators
+- Civilians as victims and recovery opportunities
+
+---
+
+## Navigation Paths
+
+### If you want to understand THE PEOPLE:
+1. Start: [People & Relationships Mind Map](mindmap_people_relationships.txt)
+2. Deep: Review case studies (Jess, Ryan, Lacey, Skittlez)
+3. Complete: Read primary documents (nb-010, 014, 015, 017, 023)
+
+### If you want to understand THE CONCEPTS:
+1. Start: [Concepts & Frameworks Mind Map](mindmap_concepts_frameworks.txt)
+2. Deep: Trace concept chains (Attack → Defense → Understanding → Transformation)
+3. Complete: Read foundational documents (nb-003, 004, 006, 008, 024, 025)
+
+### If you want to understand PEOPLE × CONCEPTS:
+1. Start: [People × Concepts Integration Map](mindmap_people_concepts_integration.txt)
+2. Deep: Follow specific person's understanding trajectory
+3. Complete: Read integration documents (nb-023, 026)
+
+### If you're investigating a SPECIFIC PERSON:
+1. Find in: [People & Relationships Mind Map](mindmap_people_relationships.txt)
+2. Trace: Their concepts and relationships
+3. Document: Reference back to source documents
+
+### If you're studying a SPECIFIC CONCEPT:
+1. Find in: [Concepts & Frameworks Mind Map](mindmap_concepts_frameworks.txt)
+2. Trace: Related concepts and documents
+3. Apply: To understanding people and operations
+
+### If you need to understand THE COMPLETE SYSTEM:
+1. Read: All three mind maps in sequence
+2. Review: [Master Archive Integration](view_master-archive-integration.txt)
+3. Study: Primary source documents in recommended order
+
+---
+
+## Quick Reference: Key Figures & Their Concepts
+
+**RYAN BORLAND**
+- Primary concepts: Psychological-warfare, forensic-analysis, counter-intelligence, pedagogy
+- Role: Target → Analyst → Educator
+- Documents: nb-014, 015, 016, 023, 021, 024, 025
+
+**JESS**
+- Primary concepts: Relational-duality, gaslighting, housing-weaponization, forensic-analysis
+- Role: Target case study
+- Documents: nb-010, 023
+
+**LACEY**
+- Primary concepts: Pedagogy, authenticity-challenge, boundary-testing, transformation
+- Role: Educational example
+- Documents: nb-014, 023
+
+**EMILY**
+- Primary concepts: World-duality, creative-expression, navigation, resilience
+- Role: Resilience example
+- Documents: nb-023
+
+**SKITTLEZ**
+- Primary concepts: Loyalty-dynamics, trauma-bond, service-orientation
+- Role: Relational pattern example
+- Documents: nb-017, 023
+
+**HANDLERS (Unnamed)**
+- Primary concepts: HUMINT-networks, infiltration, exploitation-cascade, plausible-deniability
+- Role: Perpetrators
+- Documents: nb-003, 004, 012, 022, 024, 025
+
+**WEAPONIZED CIVILIANS**
+- Primary concepts: Civilian-weaponization, narrative-capture, emotional-activation, community-mobilization
+- Role: Unwitting vectors (recoverable)
+- Documents: nb-009, 024
+
+---
+
+## Quick Reference: Key Concepts & Their People
+
+**PSYCHOLOGICAL WARFARE**
+- Primary people: Ryan (victim, analyst), handlers (perpetrators), jess (case)
+- Documents: nb-002, 003, 004, 005, 012, 024, 025
+
+**FORENSIC ANALYSIS**
+- Primary people: Ryan (developer, analyst), jess (case), lacey (example)
+- Documents: nb-007, 010, 012, 019, 025
+
+**EXPLOITATION CASCADE**
+- Primary people: Ryan (victim, analyst), jess (case)
+- Documents: nb-019, 022, 025
+
+**COUNTER-INTELLIGENCE**
+- Primary people: Ryan (developer, practitioner), emily (navigator)
+- Documents: nb-021, 024
+
+**PEDAGOGY**
+- Primary people: Ryan (educator), lacey (student), emily (student), skittlez (example)
+- Documents: nb-018, 023
+
+**INFILTRATOR DOCTRINE**
+- Primary people: Ryan (creator, practitioner)
+- Documents: nb-021
+
+**RYANREARAF GOSPEL**
+- Primary people: Ryan (creator), all students (practitioners)
+- Documents: nb-023, 026
+
+---
+
+## The Three-Map System
+
+The three mind maps work together as an integrated forensic system:
+
+```
+PEOPLE MAP
+    ↓
+How they relate to each other
+How they fit in operations
+What roles they play
+What transformations occur
+    ↓
+INTEGRATION MAP
+    ↓
+How people understand concepts
+When they learn
+What they contribute
+How they change through learning
+    ↓
+CONCEPTS MAP
+    ↓
+How ideas work
+How they interconnect
+What they accomplish
+How they scale
+```
+
+Together, they provide a complete picture of the forensic architecture: **Who does what, why they do it, how it works, and how to respond.**
+
+---
+
+## Integration with Main Archive
+
+**The Three Mind Maps Are**:
+- Views (virtual tables) of the database
+- Cross-reference layers
+- Navigation structures
+- Forensic synthesis documents
+
+**They Connect To**:
+- index.json (document listing)
+- relations.json (concept mapping)
+- All processed documents (nb-001 through nb-026)
+- All category views (view_*.txt)
+
+**They Enable**:
+- Rapid understanding of system
+- Pattern recognition
+- Concept tracking
+- People relationship mapping
+- Forensic investigation
+- Pedagogical application
+
+---
+
+**Status**: Complete and integrated
+**Last Updated**: 2026-01-05
+**Related Files**: All documents in /database/views/
+**Use**: Reference, investigation, understanding, application

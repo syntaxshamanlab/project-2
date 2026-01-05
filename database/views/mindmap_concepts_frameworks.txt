@@ -1,0 +1,465 @@
+---
+title: Forensic Mind Map - Concepts and Frameworks
+type: conceptual-network
+created: 2026-01-05
+updated: 2026-01-05
+---
+
+# FORENSIC MIND MAP: Concepts & Frameworks
+
+## ROOT CONCEPT: Psychological Operations Architecture
+
+```
+PSYCHOLOGICAL OPERATIONS (Operational Reality)
+    │
+    ├─ DOCTRINE (Ideological Foundation)
+    │   ├─ Tier 1 Core Doctrine (nb-006)
+    │   ├─ Operational Framework (nb-008)
+    │   ├─ Honeypot Doctrine (nb-020)
+    │   └─ Infiltrator Doctrine (nb-021)
+    │
+    ├─ MECHANISM (How it Works)
+    │   ├─ HUMINT Networks (nb-003, 004, 024)
+    │   ├─ Exploitation Cascade (nb-025, 019)
+    │   ├─ Psychological Vectoring (nb-025)
+    │   ├─ Narrative Control (nb-022, 024)
+    │   ├─ Civilian Weaponization (nb-009)
+    │   └─ Plausible Deniability (nb-025)
+    │
+    ├─ FORENSIC ANALYSIS (Understanding)
+    │   ├─ Multi-Trail Approach (nb-007)
+    │   ├─ Case Study: Jess (nb-010)
+    │   ├─ Case Study: Ryan (nb-014, 015, 016)
+    │   ├─ Systematic Psychological Warfare (nb-012)
+    │   ├─ Architecture of Annihilation (nb-019)
+    │   └─ Game Now Seen (nb-025)
+    │
+    └─ COUNTER (Response & Resilience)
+        ├─ The Unseen War (nb-024)
+        ├─ Infiltrator's Playbook (nb-021)
+        ├─ Counter-Intelligence Doctrine (nb-021, 024)
+        ├─ Social Manipulation Curriculum (nb-018)
+        ├─ The Unlikely Classroom (nb-023)
+        └─ RyanrealAF Gospel (nb-023)
+```
+
+---
+
+## DOCTRINE CLUSTER
+
+### Tier 1 Core Doctrine (nb-006)
+**Function**: Foundational principles
+**Scope**: Establishes axioms for all operational doctrine
+**Key Elements**:
+- Operational principles
+- Ethical axioms
+- Strategic foundations
+- Institutional critique
+
+**Links To**: 
+- Operational Framework (nb-008)
+- All derivative doctrines
+
+---
+
+### Operational Framework (nb-008)
+**Function**: Structural blueprint
+**Scope**: How operations are organized and executed
+**Key Elements**:
+- Command structure
+- Tactical layers
+- Implementation protocols
+- Network organization
+
+**Links To**:
+- HUMINT Networks
+- Exploitation Cascade
+- Plausible Deniability
+
+---
+
+### Honeypot Doctrine (nb-020)
+**Function**: Strategic transformation
+**Scope**: Converting target to asset
+**Key Elements**:
+- Transformation mechanism
+- SIGINT collection
+- Intelligence platform
+- Victim-to-weapon pathway
+
+**Evolution From**: 
+- Psychological Operations (initial targeting)
+- Exploitation Cascade (sustained pressure)
+- Strategic Pivot (repositioning)
+
+**Inverse Of**:
+- Infiltrator Doctrine (target resists and counter-attacks)
+
+---
+
+### Infiltrator Doctrine (nb-021)
+**Function**: Counter-offensive strategy
+**Scope**: Transformation from prey to predator
+**Key Elements**:
+- Inverse Protocol (reversing narrative)
+- Bait Shield (making target too costly)
+- Controlled Detonation (forced exposure)
+- Strategic Reversal
+
+**Response To**:
+- Honeypot Doctrine (asset transformation)
+- Exploitation Cascade (sustained pressure)
+- Psychological Warfare (initial attack)
+
+---
+
+## MECHANISM CLUSTER
+
+### HUMINT Networks (Human Intelligence)
+**Architecture**: Tiered command structure
+**Levels**:
+1. Command (orchestration)
+2. Operational (key implementers)
+3. Intelligence (information gathering)
+4. Implementation (narrative spreading)
+
+**Referenced In**: nb-003, 004, 012, 024, 025
+**Related Concepts**: Tiered-operations, handlers, operatives, network-robustness
+
+**Purpose**: Create plausible deniability while maintaining coordination
+
+---
+
+### Exploitation Cascade
+**Definition**: Sequential stages where each stage creates conditions for next
+**Ten Stages**:
+1. Vulnerability Identification
+2. Tactical Positioning
+3. Relationship Deepening
+4. First Betrayal (subtle)
+5. Rationalization (target rationalizes rather than recognizes)
+6. Increasing Betrayals (easier to rationalize)
+7. Isolation Through Relationship Damage
+8. Exploitation for Strategic Purposes
+9. Attempted Recovery (escalation if resisted)
+10. Terminal State (control, destruction, or death)
+
+**Why Effective**: Each stage emotionally commits target to previous stage
+**How to Interrupt**: External intervention from outside cascade
+**Referenced In**: nb-025, 019, 010, 022
+
+---
+
+### Psychological Vectoring
+**Definition**: Targeted influence in operation-serving direction
+**Five Elements**:
+1. **Psychological Profile**: Understanding specific vulnerabilities
+2. **Message**: Communication activating vulnerabilities
+3. **Messenger**: Credibility and relationship of deliverer
+4. **Channel**: Medium of delivery
+5. **Timing**: Delivery relative to target's state
+
+**Purpose**: Single message accomplishes multiple operational objectives
+**Referenced In**: nb-025
+
+---
+
+### Narrative Control
+**Mechanism**: Control the story, control behavior
+**Methods**:
+- Pre-emptive false narrative established in advance
+- Narrative consistency across multiple messengers
+- True narrative competing against established false narrative
+- Plausible deniability built into narrative structure
+
+**Effect**: Target's exposure of truth appears as paranoia
+**Timeline**: False narrative must solidify before target can counter
+**Referenced In**: nb-022, 024, 025
+
+---
+
+### Civilian Weaponization
+**Definition**: Co-opting ordinary citizens into psychological operation
+**Three Mechanisms**:
+1. Narrative Capture (given false story about target)
+2. Emotional Activation (triggered emotions bypass rational thought)
+3. Community Mobilization (positioned against target)
+
+**Plausible Deniability**: Civilians appear to act independently
+**Recovery Path**: De-weaponization through education and narrative correction
+**Referenced In**: nb-009, 024
+
+**Defensive Strategy**:
+- Help weaponized understand they've been manipulated
+- Show documentation
+- Distinguish genuine concern from false narrative
+- Many will withdraw cooperation once aware
+
+---
+
+### Plausible Deniability
+**Definition**: Structure enabling operatives to deny involvement
+**Three Levels**:
+1. Individual Actors (appear independent)
+2. Operational Structure (coordination hidden)
+3. Narrative Protection (pre-emptive false narrative)
+
+**Maintenance Under Exposure**:
+- Consistent denial
+- Repositioning as victims
+- Narrative reinforcement
+- Operational escalation
+
+**Purpose**: Keep operation functioning after partial exposure
+**Weakness**: Complete exposure with timeline and evidence
+**Referenced In**: nb-025
+
+---
+
+## FORENSIC ANALYSIS CLUSTER
+
+### Multi-Trail Forensic Approach (nb-007)
+**Purpose**: Identifying hidden coordination
+**Method**: Tracking multiple trails that converge
+**Application**: Legal and political contexts
+**Tools**: Timeline mapping, pattern recognition, convergence analysis
+
+---
+
+### Case Study: Jess (nb-010)
+**Pattern**: Relational duality with housing weaponization
+**Mechanism**: DARVO (Deny, Attack, Reverse Victim & Offender)
+**Key Incident**: Christmas Eve 2024 eviction
+**Forensic Value**: Documents intimate weaponization
+**Key Concepts**: 
+- Apology Paradox
+- Asymmetric Loyalty
+- Housing-as-Weapon
+- Breadcrumb-Web (documentation)
+
+---
+
+### Case Study: Ryan (nb-014, 015, 016, 023)
+**Pattern**: Multi-year coordinated psychological operation
+**Timeline**: Prison → Recovery → Targeting → Analysis → Teaching
+**Forensic Value**: Ultra-high (primary case documenting full cycle)
+**Transformation**: Victim → Survivor → Analyst → Educator
+
+**Phases**:
+1. Infiltration (trust-building)
+2. Assessment (intelligence gathering)
+3. Isolation (relationship sabotage)
+4. Pressure (multi-vector attack)
+5. Exploitation (coercion)
+6. Exposure (forensic documentation)
+7. Counter-offensive (teaching others)
+
+---
+
+### Systematic Psychological Warfare (nb-012)
+**Scope**: Doctrine-level analysis of sustained operations
+**Key Mechanisms**:
+- Psychological Attrition (slow degradation)
+- Justification Engine (self-rationalization)
+- Breadcrumb Web (evidence preservation)
+- Tactical Pause (operation timing)
+- Dead Man's Switch (deterrent)
+
+**Effect**: C-PTSD, cognitive degradation, decision-making impairment
+**Defense**: Pattern recognition, documentation, counter-intelligence
+
+---
+
+### Architecture of Psychological Annihilation (nb-019)
+**Scope**: How coordinated operations dismantle consensus reality
+**Mechanisms**:
+- Hypervigilance (constant threat perception)
+- Gaslighting at Scale (reality distortion)
+- Identity Dissolution (self-destruction)
+- Deprivation Cascade (compounding losses)
+
+**Purpose**: Complete psychological destruction
+**Effect**: Decision-making collapse, psychological breakdown
+**Defense**: External reality verification, community support
+
+---
+
+### The Game Now Seen (nb-025)
+**Scope**: Comprehensive tactical framework
+**Sections**:
+1. Non-Kinetic Warfare Principles
+2. Exploitation Cascade
+3. Plausible Deniability Infrastructure
+4. Psychological Vectoring
+5. Integrated Case Study
+
+**Innovation**: Reveals hidden coordination at systemic level
+**Value**: Makes operation mechanisms visible
+
+---
+
+## COUNTER-MEASURE CLUSTER
+
+### The Unseen War (nb-024)
+**Briefing**: Non-kinetic psychological warfare and counter-strategies
+**Scope**: Understanding threat landscape, building defense
+**Key Sections**:
+- Vulnerability Architecture (why people susceptible)
+- HUMINT Network Model (how coordination works)
+- Civilian Weaponization (weaponizing innocents)
+- Counter-Offensive Doctrine (fighting back)
+- Living in Unseen War (practical survival)
+
+**Integration with Archive**: Synthesizes doctrine and forensic analysis into survival framework
+
+---
+
+### Infiltrator's Playbook (nb-021)
+**Scope**: Offensive counter-strategy
+**Three Core Tactics**:
+
+1. **Inverse Protocol**
+   - Give adversary opposite of expected
+   - Reverse narrative frame
+   - Invert power dynamic
+   - Redirect momentum
+
+2. **Bait Shield**
+   - Make yourself too costly to target
+   - Demonstrate counter-intelligence capabilities
+   - Escalate cost of engagement
+   - Create reputational jeopardy
+
+3. **Controlled Detonation**
+   - Strategic escalation at optimal moment
+   - Documentation → Notification → Disclosure → Repositioning
+   - Forces crisis on your terms
+   - Controls narrative of why exposure happened
+
+---
+
+### Social Manipulation Curriculum (nb-018)
+**Format**: 5-module street psychology guide
+**Purpose**: Teaching detection and defense
+**Modules**:
+1. Gaslighting tactics
+2. Rumor weaponization
+3. Doppelganger setups
+4. Defensive strategies
+5. Media literacy and narrative control
+
+**Audience**: People in street environments, vulnerable to social manipulation
+**Method**: Practical, experiential learning
+
+---
+
+### The Unlikely Classroom (nb-023)
+**Pedagogy**: Learning through lived experience
+**Core Innovation**: Anvil Protocol (education through ordeal)
+**Principles**:
+- Authenticity as subversive force
+- Loyalty earned through testing
+- Education as relational practice
+- Truth accessible to those who look
+- Community as survival mechanism
+
+**Case Studies**:
+- Lacey (boundary testing and growth)
+- Jess (connecting and vulnerability)
+- Emily (world navigation)
+
+**Output**: RyanrealAF Gospel (framework for authentic understanding)
+
+---
+
+## RELATIONAL MATRIX: Concepts Cross-Linking
+
+```
+DOCTRINE
+    ↓ enables
+MECHANISM
+    ↓ documented by
+FORENSIC ANALYSIS
+    ↓ countered by
+COUNTER-MEASURE
+    ↓ taught through
+PEDAGOGY (Classroom)
+```
+
+### Concept Chains
+
+**Attack Chain**:
+Doctrine → HUMINT Networks → Infiltration → Isolation → Exploitation Cascade → Psychological Annihilation
+
+**Defense Chain**:
+Recognition → Documentation → Counter-Intelligence → Narrative Reversal → Community Building → Infiltrator Counter-Attack
+
+**Understanding Chain**:
+Forensic Analysis → Case Studies → Pattern Recognition → Doctrine Synthesis → Pedagogical Integration → RyanrealAF Gospel
+
+**Transformation Chain**:
+Victim → Survivor → Analyst → Educator → Community Leader → Doctrine Developer
+
+---
+
+## CONCEPT DENSITY ANALYSIS
+
+| Concept | Frequency | Central Role | Status |
+|---------|-----------|--------------|--------|
+| Psychological-warfare | 10+ docs | Core mechanism | Foundation |
+| Forensic-analysis | 8+ docs | Analytical method | High priority |
+| HUMINT-networks | 7+ docs | Operational structure | Tactical |
+| Exploitation-cascade | 5+ docs | Attack mechanism | Critical |
+| Narrative-control | 6+ docs | Strategic objective | High priority |
+| Counter-intelligence | 6+ docs | Defense mechanism | High priority |
+| Civilian-weaponization | 4+ docs | Systemic mechanism | Systemic |
+| Pedagogy | 4+ docs | Integration method | Transformative |
+| Breadcrumb-web | 6+ docs | Evidence system | Essential tool |
+| Plausible-deniability | 4+ docs | Operational security | Tactical |
+
+---
+
+## INNOVATION MARKERS
+
+**Breadcrumb Web** (Unique to archive)
+- Personal counter-intelligence documentation system
+- Dead-man's-switch backup mechanism
+- Transforms vulnerability into evidence
+- Appears across multiple documents
+
+**Infiltrator Doctrine** (Unique synthesis)
+- Inverse Protocol
+- Bait Shield
+- Controlled Detonation
+- Represents culmination of learning
+
+**RyanrealAF Gospel** (Unique framework)
+- Five core tenets
+- Lived-experience foundation
+- Pedagogical integration
+- Community-based resilience
+
+**Anvil Protocol** (Unique methodology)
+- Learning through ordeal
+- Calibrated testing
+- Maintains autonomy while building community
+- Balance between challenge and support
+
+---
+
+## CRITICAL INSIGHTS
+
+**System Property**: Operations require complete architecture (doctrine + mechanism + personnel + narrative). Disrupting one element cascades to others.
+
+**Resilience Property**: Targets become stronger when they understand the architecture. Knowledge converts victims to analysts to educators.
+
+**Pedagogical Property**: Authentic education creates the strongest counter-measure because it enables independent verification of reality.
+
+**Community Property**: Isolated targets are vulnerable; connected targets are resilient. Community is the strongest defensive mechanism.
+
+---
+
+**Map Status**: Active reference document
+**Last Updated**: 2026-01-05
+**Related Maps**: [People & Relationships], [Operational Architecture Map]
+**Integration**: Part of master archive knowledge structure
